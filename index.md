@@ -11,20 +11,13 @@ notification: "Notification: This is a staging site!"
 sections:
   - hero:
       title: Singapore Foreign Exchange Market Committee (SFEMC)
-      subtitle: Hero subtitle
+      subtitle: Established in 1986 to foster growth and development of Singapore,
+        with specific focus on foreign exchange, money markets, fixed income and
+        derivatives markets.
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
