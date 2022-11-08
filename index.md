@@ -17,7 +17,10 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Industry Good Practice
-          description: Commitment to good practices
+          description: The Blue Book
+          url: ""
+        - title: SFEMC Public Register
+          description: Singapore-based participants
           url: ""
   - infobar:
       title: Infobar title
