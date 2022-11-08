@@ -1,4 +1,4 @@
-title: Title
+title: Singapore Foreign Exchange Market Committee (SFEMC)
 url: https://www.sfemc.org
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,10 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: The SFEMC was established in 1986 to foster the growth and
+  development of Singapore as a leading global financial centre in Asia, with
+  specific focus on foreign exchange, money markets, fixed income and
+  derivatives markets.
 permalink: none
 baseurl: ""
 exclude:
