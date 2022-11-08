@@ -15,9 +15,10 @@ sections:
         with specific focus on foreign exchange, money markets, fixed income and
         derivatives markets.
       background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      key_highlights:
+        - title: Industry Good Practice
+          description: Commitment to good practices
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
