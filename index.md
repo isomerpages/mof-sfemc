@@ -22,6 +22,9 @@ sections:
         - title: SFEMC Public Register
           description: Singapore-based participants
           url: ""
+        - title: Statistics
+          description: Foreign Exchange Volume Survey
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
