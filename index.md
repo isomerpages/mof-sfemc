@@ -1,7 +1,10 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: Singapore Foreign Exchange Market Committee (SFEMC)
+description: The SFEMC was established in 1986 to foster the growth and
+  development of Singapore as a leading global financial centre in Asia, with
+  specific focus on foreign exchange, money markets, fixed income and
+  derivatives markets.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -29,5 +32,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
