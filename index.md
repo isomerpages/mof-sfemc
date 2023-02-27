@@ -26,9 +26,10 @@ sections:
           description: Foreign Exchange Volume Survey
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Industry Good Practice
+      description: The SFEMC has developed this set of principles of good practice,
+        “The Singapore Guide to Conduct and Market Practices for the Wholesale
+        Financial Markets”.
+      button: Learn More
+      url: /bluebook/
 ---
