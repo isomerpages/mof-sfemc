@@ -2,4 +2,5 @@ collections:
   about-sfemc:
     output: true
     order:
+      - Committee Members.md
       - Sub committees.md
