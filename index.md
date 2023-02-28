@@ -18,13 +18,13 @@ sections:
       key_highlights:
         - title: Industry Good Practice
           description: The Blue Book
-          url: ""
+          url: /blue-book/
         - title: SFEMC Public Register
           description: Singapore-based participants
-          url: ""
+          url: /public-register/
         - title: Statistics
           description: Foreign Exchange Volume Survey
-          url: ""
+          url: /statistics/
   - infobar:
       title: Industry Good Practice
       description: The SFEMC has developed this set of principles of good practice,
