@@ -1,0 +1,4 @@
+collections:
+  media-releases:
+    output: true
+    order: []
