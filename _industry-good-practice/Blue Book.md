@@ -4,14 +4,14 @@ permalink: /industry-good-practice/blue-book/
 description: ""
 ---
 ##### Current Version
-
+###### Download 
 [The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets
 (with effect from 12 Apr 2018)](/files/blue_book_wholesale.pdf)
 
 [The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets 
 (Frequently Asked Questions)](/files/blue_book_faqs.pdf)
 
-##### Past Version
+###### Download Past Version
 
 [The Singapore Guide to Conduct and Market Practices for Treasury Activities
 (updated as at 14 Jun 2013)](/files/blue_book_treasury.pdf)
