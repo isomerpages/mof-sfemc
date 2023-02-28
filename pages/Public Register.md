@@ -21,12 +21,11 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 
 ***
 
-![pdf](/images/icon-pdf.jpg)
-![a](/images/logo-abs.png)
+
 
 | Market Participant | Type | Date of Admission | Date of Statement     | Statement of Commitments     | Disclosure Cover Sheet     |
 | -------- | -------- | -------- |  -------- | -------- | -------- |
-| Agricultural Bank of China Limited, Singapore Branch     | Bank     | 2019-05     | 2019-05-14     | [aboc](/files/Statement/aboc.pdf)     | N.A     |
+| Agricultural Bank of China Limited, Singapore Branch     | Bank     | 2019-05     | 2019-05-14     | [![pdf](/images/icon-pdf.jpg)](/files/Statement/aboc.pdf)     | N.A     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
