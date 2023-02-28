@@ -13,8 +13,8 @@ description: ""
 
 ##### Past Version
 
-The Singapore Guide to Conduct and Market Practices for Treasury Activities
-(updated as at 14 Jun 2013)
+[The Singapore Guide to Conduct and Market Practices for Treasury Activities
+(updated as at 14 Jun 2013)](/files/blue_book_treasury.pdf)
 
 ###### General Terms of Usage: 
 
