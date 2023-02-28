@@ -5,10 +5,10 @@ description: ""
 ---
 ##### Current Version
 
-The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets
-(with effect from 12 Apr 2018)
+[The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets
+(with effect from 12 Apr 2018)](/files/blue_book_wholesale.pdf)
 
-The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets Frequently Asked Questions
+The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets 
 (Frequently Asked Questions)
 
 ##### Past Version
