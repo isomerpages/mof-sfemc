@@ -1,4 +1,5 @@
 collections:
   about-sfemc:
     output: true
-    order: []
+    order:
+      - Sub committees.md
