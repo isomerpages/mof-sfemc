@@ -1,0 +1,4 @@
+collections:
+  benchmarks:
+    output: true
+    order: []
