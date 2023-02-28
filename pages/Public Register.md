@@ -22,6 +22,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 ***
 
 ![pdf](/images/icon-pdf.jpg)
+![a](/images/logo-abs.png)
 
 | Market Participant | Type | Date of Admission | Date of Statement     | Statement of Commitments     | Disclosure Cover Sheet     |
 | -------- | -------- | -------- |  -------- | -------- | -------- |
