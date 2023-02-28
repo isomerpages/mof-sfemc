@@ -1,4 +1,5 @@
 collections:
   benchmarks:
     output: true
-    order: []
+    order:
+      - SFEMC Indicative Surveys.md
