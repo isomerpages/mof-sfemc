@@ -25,12 +25,9 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 
 | Market Participant | Type | Date of Admission | Date of Statement     | Statement of Commitments     | Disclosure Cover Sheet     |
 | -------- | -------- | -------- |  -------- | -------- | -------- |
+| Agricultural Bank of China Limited, Singapore Branch     | Bank     | 2019-05     | 2019-05-14     | Text     | N.A     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     |
-
-
- 
