@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Statistics
     url: /statistics/
-  - title: About SFEMC
-    collection: example-folder
+  - title: About Sfemc
+    collection: about-sfemc
   - title: Links
     url: /links/
