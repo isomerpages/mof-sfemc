@@ -1,4 +1,5 @@
 collections:
   industry-good-practice:
     output: true
-    order: []
+    order:
+      - Blue Book.md
