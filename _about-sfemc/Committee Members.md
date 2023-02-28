@@ -3,8 +3,6 @@ title: Committee Members
 permalink: /about-sfemc/committee-members/
 description: ""
 ---
-
-
 | Name | Company | 
 | -------- | -------- |
 | Yun Zhang     | Barclays     | 
@@ -21,11 +19,11 @@ description: ""
 | Vikas Gupta     | JPMorgan     | 
 | Sing Chiong Leong (Co-Chairperson)     | MAS     | 
 | Bernard Wee     | MAS     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
+| Yeow Kwang Guan     | Mizuho Corporate Bank     | 
+| May Ling Tan     | OCBC     | 
+| Kenneth Lai     | OCBC     | 
+| Daniel Koh     | Standard Chartered Bank     | 
+| Anthony John Hall     | Standard Chartered Bank     | 
+| Marc Bonnici     | Tullett Prebon Singapore     | 
+| Eric Li     | UBS AG     | 
+| Leslie Foo     | UOB     |
