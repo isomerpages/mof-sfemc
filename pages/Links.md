@@ -10,7 +10,7 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | [Website](http://www.mas.gov.sg/)     | [Website](http://www.abs.org.sg/)     | [Website](http://www.acisin.com/)     |  [Website](http://www.ibf.org.sg/) |
 
-
+![logo](/images/logo-mas.png)
 
 #### Worldwide
 
