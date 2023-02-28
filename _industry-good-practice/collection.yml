@@ -2,4 +2,5 @@ collections:
   industry-good-practice:
     output: true
     order:
+      - Global Preamble.md
       - Blue Book.md
