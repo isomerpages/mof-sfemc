@@ -2,5 +2,6 @@ collections:
   media-releases:
     output: true
     order:
+      - News/.keep
       - News.md
       - Archive.md
