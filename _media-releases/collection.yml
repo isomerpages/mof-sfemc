@@ -2,4 +2,5 @@ collections:
   media-releases:
     output: true
     order:
+      - News.md
       - Archive.md
