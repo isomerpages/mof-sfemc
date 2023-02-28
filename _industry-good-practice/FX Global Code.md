@@ -14,4 +14,4 @@ The FX Global Code (set out below) is a set of global principles of good practic
 Widespread adoption of the FX Global Code is vital to the integrity and effective functioning of the foreign exchange market.
 
 ###### Download 
-The Foreign Exchange Working Group Report on Adherence (May 2017)
+[The Foreign Exchange Working Group Report on Adherence (May 2017)](/files/fx_adherence.pdf)
