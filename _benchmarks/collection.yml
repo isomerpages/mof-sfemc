@@ -2,4 +2,5 @@ collections:
   benchmarks:
     output: true
     order:
+      - Financial Benchmarks.md
       - SFEMC Indicative Surveys.md
