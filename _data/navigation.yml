@@ -1,8 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Statistics
-    url: /statistics/
   - title: About Sfemc
     collection: about-sfemc
+  - title: Industry Good Practice
+    collection: industry-good-practice
+  - title: Public Register
+    url: /public-register
+  - title: Statistics
+    url: /statistics/
+  - title: Benchmarks
+    collection: benchmarks
+  - title: Media Releases
+    collection: media-releases
   - title: Links
     url: /links/
