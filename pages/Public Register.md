@@ -47,9 +47,6 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 		<td>Bank</td>
 		<td>2019-05</td>
 		<td>2019-05-14</td>
-		<td><a href="/files/Statement/aboc.pdf"><img src = "/images/icon-pdf.jpg" style="width:20px;"></td>
+		<td><a href="/files/Statement/aboc.pdf"><img src = "/images/icon-pdf.jpg" style="width:15%;"></td>
 		<td>N.A </td> 
 	</tr>
-		
-		
-		
