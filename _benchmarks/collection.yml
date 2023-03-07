@@ -2,6 +2,7 @@ collections:
   benchmarks:
     output: true
     order:
+      - Indicative Surveys/Past Press Releases.md
       - Indicative Surveys/Introduction.md
       - Indicative Surveys/.keep
       - Financial Benchmarks.md
