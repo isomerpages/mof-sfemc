@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Posts
 ---
 **The Singapore Foreign Exchange Market Committee  
-**c/o Deutsche Bank AG  
-One Raffles Quay #18-00 South Tower Singapore 048583
+c/o Deutsche Bank AG  
+One Raffles Quay #18-00 South Tower Singapore 048583**
 
 1 August 08  
   
