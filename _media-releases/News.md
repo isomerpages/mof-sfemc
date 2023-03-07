@@ -15,11 +15,12 @@ Joint Industry Consultation on the SIBOR Reform and a Shift to a SORA-Centred SG
 
 SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks [Download](/files/Media/SIBOR%20Reform%20and%20the%20Future%20Landscape%20for%20SGD%20Interest%20Rate%20Benchmarks.pdf)
 
-26 March 2020 | GFXC Statement on FX Market Conditions
+##### 26 March 2020 | GFXC Statement on FX Market Conditions #####
 GFXC Statement on FX Market Conditions
 
 Download 
-30 August 2019 | ABS-SFEMC Consults on the Roadmap for Transition of Interest Rate Benchmarks: From SGD Swap Offer Rate (“SOR”) to Singapore Overnight Rate Average (“SORA”)
+
+##### 30 August 2019 | ABS-SFEMC Consults on the Roadmap for Transition of Interest Rate Benchmarks: From SGD Swap Offer Rate (“SOR”) to Singapore Overnight Rate Average (“SORA”) #####
 ABS-SFEMC Consults on the Roadmap for Transition of Interest Rate Benchmarks: From SGD Swap Offer Rate (“SOR”) to Singapore Overnight Rate Average (“SORA”)
 
 Download 
