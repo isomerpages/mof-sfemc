@@ -112,22 +112,3 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |VP Bank Ltd, Singapore Branch  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/VPBANK.pdf) | N.A.|
 |Westpac Banking Corporation  | Bank | 2019-01 | 2022-08-11 | [](/files/Pdf/Register/WESTPACBANKINGCORPORATION.pdf) | N.A.|
 
-
-
-<table> 
-	<tr>
-		<th>Market Participant</th>
-		<th>Type</th>
-		<th>Date of Admission</th>
-		<th>Date of Statement</th>
-		<th>Statement of Commitments</th>
-		<th>Disclosure Cover Sheet</th> 
-	</tr>
-	<tr>
-		<td>Agricultural Bank of China Limited, Singapore Branch</td>
-		<td>Bank</td>
-		<td>2019-05</td>
-		<td>2019-05-14</td>
-		<td><a href="/files/Statement/aboc.pdf"><img src = "/images/icon-pdf.jpg" style="width:15%;"></td>
-		<td>N.A </td> 
-	</tr>
