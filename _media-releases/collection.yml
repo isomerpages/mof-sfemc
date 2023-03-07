@@ -2,8 +2,5 @@ collections:
   media-releases:
     output: true
     order:
-      - "News/Response to Feedback: SIBOR Reform and the Future Landscape for
-        SGD Interest Rate Benchmarks.md"
-      - News/.keep
       - News.md
       - Archive.md
