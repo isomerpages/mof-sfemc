@@ -6,13 +6,11 @@ description: ""
 #### Latest ####
 
 October 2022
-Survey of Singapore FX Volume
-
+Survey of Singapore FX Volume 
 [Download](/files/Survey/2022-10%20Survey%20FX.xlsx)
 
 April 2022
 Survey of Singapore FX Volume
-
 [Download](/files/Survey/2022-04%20Survey%20FX.xlsx)
  
 #### Past Releases ####
