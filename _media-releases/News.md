@@ -32,17 +32,15 @@ The Singapore Guide to Conduct & Market Practices for the Wholesale Financial Ma
 
 ##### 04 Dec 2017 | ABS-SFEMC Consultation on the Evolution of SIBOR #####
 ABS-SFEMC Consultation on the Evolution of SIBOR
+[Download](/files/Media/ABS-SFEMC-Consultation-on-the-Evolution-of-SIBOR.pdf)
 
-Download 
-25 May 2017 |  Joint Statement on the Publication of the FX Global Code: May 2017
+##### 25 May 2017 |  Joint Statement on the Publication of the FX Global Code: May 2017 #####
 Joint Statement on the Publication of the FX Global Code: May 2017
-
-Download 
+[Download](/files/Media/Joint_Statement_on_FSB_FXBG_Report.pdf)
 
 ##### 27 May 2016 | Joint Statement on the Publication of the FX Global Code - May 2016 Update #####
 Joint Statement on the Publication of the FX Global Code - May 2016 Update
-
-Download 
+[Download](/files/Media/Joint_Statement_May_2016.pdf)
 
 ##### 30 Mar 2015 | Press Release - Global Preamble – Codes of Best Market Practice and Shared Global Principles #####
 Press Release for Global Preamble
