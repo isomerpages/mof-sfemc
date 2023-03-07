@@ -36,7 +36,7 @@ ABS-SFEMC Consultation on the Evolution of SIBOR
 
 ##### 25 May 2017 |  Joint Statement on the Publication of the FX Global Code: May 2017 #####
 Joint Statement on the Publication of the FX Global Code: May 2017
-[Download](/files/Media/Joint_Statement_on_FSB_FXBG_Report.pdf)
+[Download(/files/Media/FINAL_For_publication_Joint_FXC_Statement.pdf)
 
 ##### 27 May 2016 | Joint Statement on the Publication of the FX Global Code - May 2016 Update #####
 Joint Statement on the Publication of the FX Global Code - May 2016 Update
@@ -44,13 +44,11 @@ Joint Statement on the Publication of the FX Global Code - May 2016 Update
 
 ##### 30 Mar 2015 | Press Release - Global Preamble – Codes of Best Market Practice and Shared Global Principles #####
 Press Release for Global Preamble
-
-Download 
+[Download](/files/Media/30_March_2015_Press_Release.pdf)
 
 ##### 20 Jan 2015 | Joint Statement on the Financial Stability Board’s Foreign Exchange Benchmarks Report #####
 Joint Statement on FSB FXBG Report
-
-Download
+[Download](/files/Media/Joint_Statement_on_FSB_FXBG_Report.pdf)
 
 ##### 18 Feb 2014 | Singapore Market to Use JISDOR Benchmark #####
 SFEMC Statement
