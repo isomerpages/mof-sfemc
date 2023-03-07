@@ -75,18 +75,35 @@ Archive
 
  #####  15 Sep 2008 | SFEMC statement on contingent third party information clearing house to facilitate the unwinding of open position  ##### 
 
+[Link](/media-releases/Posts/2008-sfemc-statement-third-party-information-clearing-house)
+
  #####  14 Sep 2008 |  NYFXC Announcement  ##### 
+[Download](/files/Media/NYFX%20announcement_14Sep08.pdf)
 
  #####  01 Aug 2008 | SFEMC statement on Vietnamese Dong fixings  ##### 
 
+[Link](/media-releases/Posts/2008-sfemc-statement-vietnamese-dong-fixing)
+
  #####  18 Dec 2006 | Statement by SFEMC on Bank of Thailand's reserve requirement on short-term capital inflows  ##### 
+
+[Link](/media-releases/Posts/2006-sfemc-statement-bank-of-thailand-reserve-requirement)
 
  #####  20 Sep 2006 | Recommendation by SFEMC on the settlement of Thai Baht (THB) transactions  ##### 
 
+[Link](/media-releases/Posts/2006-recommendations-thai-baht-transaction-settlement)
+
  #####  Oct 2003 |  An open letter from the Singapore Foreign Exchange Market Committee (SFEMC) to participants in the Singapore financial market.  ##### 
+
+[Link](/media-releases/Posts/sfemc-open-letter-to-singapore-financial-market)
 
 #####  29 Mar 2003 | SFEMC-ABS Joint Statement on SARS  ##### 
 
+[Link](/media-releases/Posts/2003-sfemc-abs-joint-statement-on-sars)
+
 ##### 26 Feb 2001 | Guidelines for closing-out outstanding Indonesian Rupiah  ##### 
 
+[Link](/media-releases/Posts/2001-guidelines-closing-outstanding-indonesian-rupiah)
+
 ##### 03 Sep 1998 | Notes of meeting on settlement of Malaysian Ringgit (MYR) deals #####
+
+[Link](/media-releases/Posts/1998-meeting-notes-malaysian-ringgit-deal-settlement)
