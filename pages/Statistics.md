@@ -6,7 +6,7 @@ description: ""
 #### Latest ####
 
 October 2022
-Survey of Singapore FX Volume ![](/images/icon-xls.png)
+Survey of Singapore FX Volume<img src="/images/icon-xls.png" width=20/>
 [Download](/files/Survey/2022-10%20Survey%20FX.xlsx)
 
 April 2022
