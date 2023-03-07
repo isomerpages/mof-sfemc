@@ -2,6 +2,6 @@ collections:
   benchmarks:
     output: true
     order:
-      - Indicative Surveys/SFEMC Indicative Surveys.md
+      - Indicative Surveys/Introduction.md
       - Indicative Surveys/.keep
       - Financial Benchmarks.md
