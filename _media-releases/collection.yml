@@ -2,6 +2,8 @@ collections:
   media-releases:
     output: true
     order:
+      - Posts/Oct 2003 |  SFEMC open letter to participants in the Singapore
+        financial market.md
       - Posts/20 Sep 2006 | Recommendation on the settlement of Thai Baht (THB)
         transactions.md
       - Posts/18 Dec 2006 | SFEMC statement on Bank of Thailand reserve
