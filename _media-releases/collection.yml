@@ -2,6 +2,8 @@ collections:
   media-releases:
     output: true
     order:
+      - News.md
+      - Posts/.keep
       - Posts/03 Sep 1998 | Notes of meeting on settlement of Malaysian Ringgit
         (MYR) deals.md
       - Posts/26 Feb 2001 | Guidelines for closing out outstanding Indonesian
@@ -21,5 +23,3 @@ collections:
       - Posts/21 Oct 2010 | Recommendations in light of the amend in Chinese
         Renminbi US Dollar fixing (CNY SAEC).md
       - Posts/04 Nov 2011 | SFEMC statement in relation to MF Global Singapore.md
-      - Posts/.keep
-      - News.md
