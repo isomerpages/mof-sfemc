@@ -21,13 +21,13 @@ GFXC Statement on FX Market Conditions
 
 ##### 30 August 2019 | ABS-SFEMC Consults on the Roadmap for Transition of Interest Rate Benchmarks: From SGD Swap Offer Rate (“SOR”) to Singapore Overnight Rate Average (“SORA”) #####
 ABS-SFEMC Consults on the Roadmap for Transition of Interest Rate Benchmarks: From SGD Swap Offer Rate (“SOR”) to Singapore Overnight Rate Average (“SORA”)
+[Download](/files/Media/30Aug2019-ABS-SFEMC%20Media%20Release%20on%20Roadmap%20for%20Transition%20of%20Interest%20Rate%20Benchmarks.pdf)
 
-Download 
-24 July 2018 | ABS-SFEMC Finalises Proposals on the Evolution of SIBOR
-ABS-SFEMC Finalises Proposals on the Evolution of SIBOR
+##### 24 July 2018 | ABS-SFEMC Finalises Proposals on the Evolution of SIBOR #####
+ABS-SFEMC Finalises Proposals on the Evolution of SIBOR 
+[Download](/files/Media/24Jul2018-ABS-SFEMC-finalises-proposal-evolution-SIBOR.pdf)
 
-Download 
-12 Apr 2018 | Launch of the Revised Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets
+##### 12 Apr 2018 | Launch of the Revised Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets #####
 The Singapore Guide to Conduct & Market Practices for the Wholesale Financial Markets
 
 Link 
