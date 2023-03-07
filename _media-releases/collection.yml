@@ -2,6 +2,8 @@ collections:
   media-releases:
     output: true
     order:
+      - Posts/03 Sep 1998 | Notes of meeting on settlement of Malaysian Ringgit
+        (MYR) deals.md
       - Posts/26 Feb 2001 | Guidelines for closing out outstanding Indonesian
         Rupiah.md
       - Posts/29 Mar 2003 | SFEMC ABS Joint Statement on SARS.md
