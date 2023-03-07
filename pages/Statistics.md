@@ -69,8 +69,7 @@ Survey of Singapore FX Volume
 
 April 2015
 Survey of Singapore FX Volume
-
- Download 
+[Download](/files/Survey/2015-04%20Survey%20FX.pdf)
 
 October 2014
 Survey of Singapore FX Volume
@@ -78,8 +77,7 @@ Survey of Singapore FX Volume
 
 April 2014
 Survey of Singapore FX Volume
-
- Download 
+[Download](/files/Survey/2014-04%20Survey%20FX.pdf)
 
 October 2013
 Survey of Singapore FX Volume
@@ -87,8 +85,7 @@ Survey of Singapore FX Volume
 
 April 2013
 Survey of Singapore FX Volume
-
- Download 
+[Download](/files/Survey/2013-04%20Survey%20FX.pdf)
 
 October 2012
 Survey of Singapore FX Volume
@@ -96,8 +93,7 @@ Survey of Singapore FX Volume
 
 April 2012
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2012-04%20Survey%20FX.pdf)
 
 October 2011
 Survey of Singapore FX Volume
@@ -105,8 +101,7 @@ Survey of Singapore FX Volume
 
 April 2011
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2011-04%20Survey%20FX.pdf)
 
 October 2010
 Survey of Singapore FX Volume
@@ -114,8 +109,7 @@ Survey of Singapore FX Volume
 
 April 2010
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2010-04%20Survey%20FX.pdf)
 
 October 2009
 Survey of Singapore FX Volume
@@ -123,8 +117,7 @@ Survey of Singapore FX Volume
 
 April 2009
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2009-04%20Survey%20FX.pdf)
 
 October 2008
 Survey of Singapore FX Volume
@@ -132,8 +125,7 @@ Survey of Singapore FX Volume
 
 April 2008
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2008-04%20Survey%20FX.pdf)
 
 October 2007
 Survey of Singapore FX Volume
@@ -141,8 +133,7 @@ Survey of Singapore FX Volume
 
 April 2007
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2007-04%20Survey%20FX.pdf)
 
 October 2006
 Survey of Singapore FX Volume
@@ -150,8 +141,7 @@ Survey of Singapore FX Volume
 
 April 2006
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2006-04%20Survey%20FX.pdf)
 
 October 2005
 Survey of Singapore FX Volume
