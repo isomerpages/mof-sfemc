@@ -56,19 +56,7 @@ SFEMC Statement
 [Download](/files/Media/SFEMC_Statement_-_18_Feb_2014-FINAL.pdf)
 
 ##### 04 Nov 2011 | SFEMC statement on best market practice for unwinding of open positions in relation to MF Global Singapore Pte. Limited #####
-4 November 2011
-
-
-SFEMC statement on best market practice for unwinding of open positions in relation to MF Global Singapore Pte. Limited
-
-
-The Singapore Foreign Exchange Market Committee ('SFEMC") notes the recent developments in relation to MF Global group of companies.
-
-
-MF Global Holdings Ltd. and its finance subsidiary, MF Global Finance USA Inc., announced a filing under Chapter 11 of the U.S. Bankruptcy Code with the United States Bankruptcy Court for the Southern District of New York on 31st October 2011. Subsequently, MF Global Singapore Pte. Limited (the “Company”), was put under provisional liquidation and with effect from 1 November 2011,
-
-
-Subject to the priority of any existing contractual rights between the parties, for purpose of orderly unwinding of open positions, SFEMC considers best market practice for close out of foreign exchange, interest rate and commodity transactions between the Company and its customers, to be the mid market levels of relevant market rates as of 1st November 2011.
+[Link](/media-releases/Posts/2011-sfemc-statement-mf-global-singapore/)
 
 #####  21 Oct 2010 | Recommendations in light of the amend in Chinese Renminbi/US Dollar fixing (CNY SAEC) on 21st October 2010 ##### 
 The Singapore Foreign Exchange Market Committee (SFEMC) seeks to clarify the application of the 'CNY SAEC' rate fixing on the Chinese Renminbi (CNY) currency for 21 October 2010. The CNY SAEC fixing rate was initially published as 6.6495 on the Reuters Screen "SAEC" page at about 9.16am, 21st Oct 10. The rate was subsequently amended to 6.6695 at about 9.36 am on 21
