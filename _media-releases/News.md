@@ -8,8 +8,8 @@ Response to Feedback: SIBOR Reform and the Future Landscape for SGD Interest Rat
 ![pdf](/images/icon-pdf.jpg)[Download](/files/Media/Response%20to%20Feedback%20-%20SIBOR%20Reform%20and%20the%20Future%20Landscape%20for%20SGD%20Interest%20Rate%20Benchmarks.pdf)
 
 Key Financial Industry Committees Set Out Timelines For SIBOR Discontinuation
+[Download](/files/Media/Key%20Financial%20Industry%20Committees%20Set%20Out%20Timelines%20For%20SIBOR%20Discontinuation.pdf)
 
-Download 
 29 July 2020 | SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks
 Joint Industry Consultation on the SIBOR Reform and a Shift to a SORA-Centred SGD Interest Rate Market
 
