@@ -2,6 +2,8 @@ collections:
   media-releases:
     output: true
     order:
+      - Posts/15 Sep 2008 | SFEMC statement on contingent third party
+        information clearing house.md
       - Posts/20 May 2010 | Recommendations in light of the market disruption on
         THB settlement.md
       - Posts/21 Oct 2010 | Recommendations in light of the amend in Chinese
