@@ -70,7 +70,7 @@ MF Global Holdings Ltd. and its finance subsidiary, MF Global Finance USA Inc., 
 
 Subject to the priority of any existing contractual rights between the parties, for purpose of orderly unwinding of open positions, SFEMC considers best market practice for close out of foreign exchange, interest rate and commodity transactions between the Company and its customers, to be the mid market levels of relevant market rates as of 1st November 2011.
 
-21 Oct 2010 | Recommendations in light of the amend in Chinese Renminbi/US Dollar fixing (CNY SAEC) on 21st October 2010
+#####  21 Oct 2010 | Recommendations in light of the amend in Chinese Renminbi/US Dollar fixing (CNY SAEC) on 21st October 2010 ##### 
 The Singapore Foreign Exchange Market Committee (SFEMC) seeks to clarify the application of the 'CNY SAEC' rate fixing on the Chinese Renminbi (CNY) currency for 21 October 2010. The CNY SAEC fixing rate was initially published as 6.6495 on the Reuters Screen "SAEC" page at about 9.16am, 21st Oct 10. The rate was subsequently amended to 6.6695 at about 9.36 am on 21
 October 2010.
 
@@ -88,7 +88,7 @@ Corrections to Published and Displayed Rates. For purposes of determining the Sp
 (c) In the event that a party to a Transaction notifies the other party to the Transaction of any correction referred to in subsections (a) or (b) above no later than 5 days after the expiration of the period referred to in such subsection, an appropriate amount will be payable as a result of
 such correction (whether such correction is made or such notice is given before or after the Settlement Date of the Transaction), together with interest on that amount at a rate per annum equal to the cost (without proof or evidence of such cost) to the relevant party (certified by it) of funding that amount for the period from, and including, the day on which, based on such correction, a payment in the incorrect amount was first made to, but excluding, the day of payment of the refund or payment resulting from such correction."
 
-20 May 2010 | Recommendations in light of the market disruption on THB settlement for 20 and 21st May
+#####  20 May 2010 | Recommendations in light of the market disruption on THB settlement for 20 and 21st May ##### 
 The Bank of Thailand has declared on 19th May that 20th May, Thursday and 21st May,Friday, would be non-business days for reasons of public safety. As such, there would be both settlement and payment delays for contracts
 maturing on these 2 non-business days.
 
@@ -101,10 +101,9 @@ agreements between the parties concerned.
 
 The committee strongly encourage relevant parties to adopt this recommendation to facilitate a rapid and efficient resolution.
 
-17 Mar 2010 | An open letter from the SFEMC to participants in the Singapore financial market
+#####  17 Mar 2010 | An open letter from the SFEMC to participants in the Singapore financial market ##### 
 Updated Mar 17, 2010
+[Download](/files/Media/UPT_17Mar10.pdf)
 
-Download 
-Archive
-
-Download
+Archive 
+[Download](/files/Media/UPT_Archive.pdf)
