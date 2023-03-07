@@ -2,6 +2,7 @@ collections:
   benchmarks:
     output: true
     order:
+      - Indicative Surveys/SFEMC Indicative Survey Test Runs.md
       - Indicative Surveys/Related NDF Templates and Documentation.md
       - Indicative Surveys/Past Press Releases.md
       - Indicative Surveys/Introduction.md
