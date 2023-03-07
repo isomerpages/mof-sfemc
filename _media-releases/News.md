@@ -72,3 +72,29 @@ Updated Mar 17, 2010
 
 Archive 
 [Download](/files/Media/UPT_Archive.pdf)
+
+ #####  15 Sep 2008 | SFEMC statement on contingent third party information clearing house to facilitate the unwinding of open position  ##### 
+
+ #####  14 Sep 2008 |  NYFXC Announcement  ##### 
+
+ #####  01 Aug 2008 | SFEMC statement on Vietnamese Dong fixings  ##### 
+
+ #####  18 Dec 2006 | Statement by SFEMC on Bank of Thailand's reserve requirement on short-term capital inflows  ##### 
+
+ #####  20 Sep 2006 | Recommendation by SFEMC on the settlement of Thai Baht (THB) transactions  ##### 
+
+ #####  Oct 2003 |  An open letter from the Singapore Foreign Exchange Market Committee (SFEMC) to participants in the Singapore financial market.  ##### 
+
+#####  29 Mar 2003 | SFEMC-ABS Joint Statement on SARS  ##### 
+
+##### 26 Feb 2001 | Guidelines for closing-out outstanding Indonesian Rupiah  ##### 
+
+##### 03 Sep 1998 | Notes of meeting on settlement of Malaysian Ringgit (MYR) deals ##### 
+
+
+
+
+
+
+
+
