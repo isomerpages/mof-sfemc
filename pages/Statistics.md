@@ -17,62 +17,51 @@ Survey of Singapore FX Volume
 
 October 2021
 Survey of Singapore FX Volume
-
-Download 
+[Download](/files/Survey/2021-10%20Survey%20FX.xlsx)
 
 April 2021
 Survey of Singapore FX Volume
-
 [Download](/files/Survey/2021-04%20Survey%20FX.xlsx)
 
 October 2020
 Survey of Singapore FX Volume
-
-Download  
+[Download](/files/Survey/2020-10%20Survey%20FX.xlsx)
 
 April 2020
 Survey of Singapore FX Volume
-
 [Download](/files/Survey/2020-04%20Survey%20FX.xlsx) 
 
 October 2019
 Survey of Singapore FX Volume
-
-Download  
+[Download](/files/Survey/2019-10%20Survey%20FX.xlsx)
 
 April 2019
 Survey of Singapore FX Volume
-
 [Download](/files/Survey/2019-04%20Survey%20FX.xlsx)
 
 October 2018
 Survey of Singapore FX Volume
-
-Download  
+[Download](/files/Survey/2018-10%20Survey%20FX.xlsx)
 
 April 2018
 Survey of Singapore FX Volume
-
 [Download](/files/Survey/2018-04%20Survey%20FX.xlsx)
 
 October 2017
 Survey of Singapore FX Volume
-
-Download  
+[Download](/files/Survey/2017-10%20Survey%20FX.xlsx)
 
 April 2017
 Survey of Singapore FX Volume
-
 [Download](/files/Survey/2017-04%20Survey%20FX.xlsx)
 
 October 2016
 Survey of Singapore FX Volume
+[Download](/files/Survey/2016-10%20Survey%20FX.xlsx)
 
- Download  
 April 2016
 Survey of Singapore FX Volume
-
- Download 
+Download 
 2015
 October 2015
 Survey of Singapore FX Volume
