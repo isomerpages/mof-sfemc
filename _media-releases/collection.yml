@@ -2,6 +2,7 @@ collections:
   media-releases:
     output: true
     order:
+      - Posts/29 Mar 2003 | SFEMC ABS Joint Statement on SARS.md
       - Posts/Oct 2003 |  SFEMC open letter to participants in the Singapore
         financial market.md
       - Posts/20 Sep 2006 | Recommendation on the settlement of Thai Baht (THB)
