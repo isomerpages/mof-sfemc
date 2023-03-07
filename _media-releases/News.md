@@ -52,7 +52,6 @@ Joint Statement on FSB FXBG Report
 
 ##### 18 Feb 2014 | Singapore Market to Use JISDOR Benchmark #####
 SFEMC Statement
-
 [Download](/files/Media/SFEMC_Statement_-_18_Feb_2014-FINAL.pdf)
 
 ##### 04 Nov 2011 | SFEMC statement on best market practice for unwinding of open positions in relation to MF Global Singapore Pte. Limited #####
