@@ -2,6 +2,7 @@ collections:
   media-releases:
     output: true
     order:
+      - Posts/14 Sep 2008 |  NYFXC Announcement.md
       - Posts/15 Sep 2008 | SFEMC statement on contingent third party
         information clearing house.md
       - Posts/20 May 2010 | Recommendations in light of the market disruption on
