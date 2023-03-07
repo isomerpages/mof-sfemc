@@ -28,10 +28,9 @@ ABS-SFEMC Finalises Proposals on the Evolution of SIBOR
 [Download](/files/Media/24Jul2018-ABS-SFEMC-finalises-proposal-evolution-SIBOR.pdf)
 
 ##### 12 Apr 2018 | Launch of the Revised Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets #####
-The Singapore Guide to Conduct & Market Practices for the Wholesale Financial Markets
+The Singapore Guide to Conduct & Market Practices for the Wholesale Financial Markets [Link](/industry-good-practice/blue-book/)
 
-Link 
-04 Dec 2017 | ABS-SFEMC Consultation on the Evolution of SIBOR
+##### 04 Dec 2017 | ABS-SFEMC Consultation on the Evolution of SIBOR #####
 ABS-SFEMC Consultation on the Evolution of SIBOR
 
 Download 
@@ -39,23 +38,28 @@ Download
 Joint Statement on the Publication of the FX Global Code: May 2017
 
 Download 
-27 May 2016 | Joint Statement on the Publication of the FX Global Code - May 2016 Update
+
+##### 27 May 2016 | Joint Statement on the Publication of the FX Global Code - May 2016 Update #####
 Joint Statement on the Publication of the FX Global Code - May 2016 Update
 
 Download 
-30 Mar 2015 | Press Release - Global Preamble – Codes of Best Market Practice and Shared Global Principles
+
+##### 30 Mar 2015 | Press Release - Global Preamble – Codes of Best Market Practice and Shared Global Principles #####
 Press Release for Global Preamble
 
 Download 
-20 Jan 2015 | Joint Statement on the Financial Stability Board’s Foreign Exchange Benchmarks Report
+
+##### 20 Jan 2015 | Joint Statement on the Financial Stability Board’s Foreign Exchange Benchmarks Report #####
 Joint Statement on FSB FXBG Report
 
-Download 
-18 Feb 2014 | Singapore Market to Use JISDOR Benchmark
+Download
+
+##### 18 Feb 2014 | Singapore Market to Use JISDOR Benchmark #####
 SFEMC Statement
 
 Download 
-04 Nov 2011 | SFEMC statement on best market practice for unwinding of open positions in relation to MF Global Singapore Pte. Limited
+
+##### 04 Nov 2011 | SFEMC statement on best market practice for unwinding of open positions in relation to MF Global Singapore Pte. Limited #####
 4 November 2011
 
 
