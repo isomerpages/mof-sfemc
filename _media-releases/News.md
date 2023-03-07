@@ -4,7 +4,7 @@ permalink: /media-releases/news/
 description: ""
 ---
 ##### 11 December 2020 | Key Financial Industry Committees Set Out Timelines for SIBOR Discontinuation ##### 
-Response to Feedback: SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks  
+Response to Feedback: SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks
 [Download](/files/Media/Response%20to%20Feedback%20-%20SIBOR%20Reform%20and%20the%20Future%20Landscape%20for%20SGD%20Interest%20Rate%20Benchmarks.pdf)
 
 Key Financial Industry Committees Set Out Timelines For SIBOR Discontinuation
