@@ -89,12 +89,4 @@ Archive
 
 ##### 26 Feb 2001 | Guidelines for closing-out outstanding Indonesian Rupiah  ##### 
 
-##### 03 Sep 1998 | Notes of meeting on settlement of Malaysian Ringgit (MYR) deals ##### 
-
-
-
-
-
-
-
-
+##### 03 Sep 1998 | Notes of meeting on settlement of Malaysian Ringgit (MYR) deals #####
