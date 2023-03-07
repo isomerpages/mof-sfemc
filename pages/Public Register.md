@@ -114,15 +114,6 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 
 
 
-
-| Agricultural Bank of China Limited, Singapore Branch     | Bank     | 2019-05     | 2019-05-14     | [](/files/Statement/aboc.pdf)     | N.A     |
-| Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     | Text     | Text     |
-
-
 <table> 
 	<tr>
 		<th>Market Participant</th>
