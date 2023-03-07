@@ -2,6 +2,7 @@ collections:
   media-releases:
     output: true
     order:
+      - Posts/04 Nov 2011 | SFEMC statement in relation to MF Global Singapore.md
       - Posts/.keep
       - News.md
       - Archive.md
