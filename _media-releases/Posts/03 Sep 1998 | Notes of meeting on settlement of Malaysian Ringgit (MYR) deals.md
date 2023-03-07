@@ -20,7 +20,7 @@ The meeting noted that the market for MYR had been severely disrupted by the rec
     
 *   Close-out settlement should be effected as soon as possible and no later than 9th Sep 98.  
 
-All affected parties should exert their best efforts to reach an appropriate close-out arrangement. A practical date for making the net payment would be   
+All affected parties should exert their best efforts to reach an appropriate close-out arrangement. A practical date for making the net payment would be.
   
-8th Sep 98.   
+8th Sep 98.
 VICTOR LIEW CHAIRMAN
