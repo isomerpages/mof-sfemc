@@ -89,16 +89,16 @@ Suggested form of Letter to Wholesale Customers on FX Benchmark Changes (Pre-Pub
 ###### Rates Benchmarks ###### 
 
 Rates Multilateral Amendment Agreement (Rates-MAA)
-Download 
+[Download](/files/Benchmarks/2013-07-05-Rates_MAA.pdf)
 
 Rates Multilateral Amendment Agreement (Rates-MAA) – Signature Page
-Download 
+[Download](/files/Benchmarks/2013-07-05-Rates_MAA_Signature_Page.docx)
 
 Rates Bilateral Amendment Agreement (Rates-BAA)
-Download 
+[Download](/files/Benchmarks/2013-07-05-Rates_BAA.docx)
 
 Suggested Form of Post-Publication Letter to Wholesale Customers on Rates Benchmarks Changes
-Download 
+[Download](/files/Benchmarks/2013-07-05-Rates_Post_Pub_Letter.docx)
 
 ##### 14 Jun 2013 | SFEMC statement on ABS financial benchmarks #####
 SFEMC Statement on ABS Financial Benchmarks
