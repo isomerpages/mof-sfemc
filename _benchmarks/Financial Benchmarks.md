@@ -60,7 +60,7 @@ Download
 SFEMC Explanatory Note
 Download 
 
-FX Benchmarks 
+######  FX Benchmarks ###### 
 List of SFEMC/ABS banks which have executed the FX MAA
 Download 
 
@@ -85,7 +85,7 @@ Download
 Suggested form of Letter to Wholesale Customers on FX Benchmark Changes (Pre-Publication)
 Download 
 
-Rates Benchmarks
+###### Rates Benchmarks ###### 
 
 Rates Multilateral Amendment Agreement (Rates-MAA)
 Download 
