@@ -5,16 +5,17 @@ description: ""
 ---
 ##### 11 Dec 2020 | SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks #####
 SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks
-Download 
+[Download](/files/Benchmarks/2020-12-11-SIBOR%20Reform%20and%20the%20Future%20Landscape%20for%20SGD%20Interest%20Rate%20Benchmarks.pdf)
 
 Response to Feedback – SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks
-Download 
+[Download](/files/Benchmarks/2020-12-11-Response%20to%20Feedback%20-%20SIBOR%20Reform%20and%20the%20Future%20Landscape%20for%20SGD%20Interest%20Rate%20Benchmarks.pdf)
 
 ##### 19 Mar 2020 | Roadmap for Transition of Interest Rate Benchmarks: SOR to SORA #####
 Roadmap for Transition of Interest Rate Benchmarks: SOR to SORA
-Download 
+[Download](/files/Benchmarks/2020-03-19-30Aug2019-ABS-SFEMC%20Media%20Release%20on%20Roadmap%20for%20Transition%20of%20Interest%20Rate%20Benchmarks.pdf)
+
 Response to Feedback Received on Proposed Roadmap for Transition from SOR to SORA
-Download 
+[Download](/files/Benchmarks/2020-03-19-Response%20to%20Feedback%20Received%20on%20Proposed%20Roadmap%20for%20Transition%20from%20SOR%20to%20SORA.pdf)
 
 ##### 24 Jul 2018 | Response to Feedback Received from the Consultation Paper on the Evolution of SIBOR #####
 ABS-SFEMC Finalises Proposals on the Evolution of SIBOR
