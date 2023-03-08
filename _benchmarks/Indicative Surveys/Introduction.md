@@ -4,9 +4,6 @@ permalink: /benchmarks/indicative-surveys/introduction/
 description: ""
 third_nav_title: Indicative Surveys
 ---
-
-
-
 ##### Introduction
 
 The template terms for non-deliverable forwards for certain currencies published by the Singapore Foreign Exchange Market Committee (“**SFEMC**”) and EMTA, Inc. (“**EMTA**”), incorporate certain disruption fallbacks in the event of a price source disruption. These disruption fallbacks include the fallback reference price of SFEMC Indicative Survey Rate.
@@ -14,38 +11,28 @@ The template terms for non-deliverable forwards for certain currencies published
 The SFEMC currently sponsors the following indicative survey rate methodologies (each an “**Indicative Survey Rate Methodology**”) to calculate such fallback reference prices:
 
 SFEMC CNY Indicative Survey Rate Methodology
-
-[](https://www.sfemc.org/pdf/2022-04%20CNY%20Indicative%20Survey%20Methodology.pdf)Download&nbsp;
+[Download](/files/Indicative%20Survey/Intro/2022-04%20CNY%20Indicative%20Survey%20Methodology.pdf)
 
 SFEMC IDR Indicative Survey Rate Methodology
-
-[](https://www.sfemc.org/pdf/2022-04%20IDR%20Indicative%20Survey%20Methodology.pdf)Download&nbsp;
+[Download](/files/Indicative%20Survey/Intro/2022-04%20IDR%20Indicative%20Survey%20Methodology.pdf)
 
 SFEMC INR Indicative Survey Rate Methodology
-
-[](https://www.sfemc.org/pdf/2022-04%20INR%20Indicative%20Survey%20Methodology.pdf)Download&nbsp;
+[Download](/files/Indicative%20Survey/Intro/2022-04%20INR%20Indicative%20Survey%20Methodology.pdf)
 
 SFEMC KRW Indicative Survey Rate Methodology
-
-[](https://www.sfemc.org/pdf/2022-04%20KRW%20Indicative%20Survey%20Methodology.pdf)Download&nbsp;
+[Download](/files/Indicative%20Survey/Intro/2022-04%20KRW%20Indicative%20Survey%20Methodology.pdf)
 
 SFEMC MYR Indicative Survey Rate Methodology
-
-[](https://www.sfemc.org/pdf/2022-04%20MYR%20Indicative%20Survey%20Methodology.pdf)Download&nbsp;
+[Download](/files/Indicative%20Survey/Intro/2022-04%20MYR%20Indicative%20Survey%20Methodology.pdf)
 
 SFEMC PHP Indicative Survey Rate Methodology
-
-[](https://www.sfemc.org/pdf/2022-04%20PHP%20Indicative%20Survey%20Methodology.pdf)Download&nbsp;
+[Download](/files/Indicative%20Survey/Intro/2022-04%20PHP%20Indicative%20Survey%20Methodology.pdf)
 
 SFEMC TWD Indicative Survey Rate Methodology
-
-[](https://www.sfemc.org/pdf/2022-04%20TWD%20Indicative%20Survey%20Methodology.pdf)Download&nbsp;
+[Download](/files/Indicative%20Survey/Intro/2022-04%20TWD%20Indicative%20Survey%20Methodology.pdf)
 
 SFEMC Indicative Survey Best Practice Guide
-
-[](https://www.sfemc.org/pdf/2022-04%20SFEMC%20Indicative%20Survey%20Best%20Practice%20Guide.pdf)Download&nbsp;
-
-  
+[Download](/files/Indicative%20Survey/Intro/2022-04%20SFEMC%20Indicative%20Survey%20Best%20Practice%20Guide.pdf)
 
 The Indicative Survey Rate Methodology is an effort by SFEMC to provide a fallback reference price for an orderly settlement across markets in the event of a price source disruption.
 
