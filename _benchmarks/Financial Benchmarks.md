@@ -59,32 +59,32 @@ Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 
 ##### 05 Jul 2013 | Related documents for ABS financial benchmark changes
 SFEMC Explanatory Note
-Download 
+[Download](/files/Benchmarks/2013-07-05-SFEMC_Explanatory_Note_5_July.pdf)
 
 ######  FX Benchmarks ###### 
-List of SFEMC/ABS banks which have executed the FX MAA
-Download 
+List of SFMC/ABS banks which have executed the FX MAA
+[Download](/files/Benchmarks/2013-07-05-FX-List_of_SFEMC_and_ABS_Banks_(FX-MAA)_[2013_08_07].pdf)
 
-Asian Multilateral Amendment
-Download 
+Asian Mulilateral Amendment
+[Download](/files/Benchmarks/2013-07-05-FX-Asian_Multilateral_Amendment_July_5.pdf)
 
 Asian Multilateral Amendment Signature Page
-Download 
+[Download](/files/Benchmarks/2013-07-05-FX-Asian_Multilateral_Amendment_Signature_Page_July_5.doc)
 
 Asian Bilateral Amendment
-Download 
+[Download](/files/Benchmarks/2013-07-05-FX-Asian_Bilateral_Amendment_July_5.doc)
 
 Asian Bilateral Amendment (check box)
-Download 
+[Download](/files/Benchmarks/2013-07-05-FX-Asian_Bilateral_Amendment_(check_box)_July_5.doc)
 
 Suggested form of Letter to Wholesale Customers on FX Benchmark Changes (Post-Publication; No Pre-Publication letter sent)
-Download 
+[Download](/files/Benchmarks/2013-07-05-FX-Suggested_form_of_letter_to_wholesale_customers_on_FX_benchmark_changes.docx)
 
 Suggested form of Letter to Wholesale Customers on FX Benchmark Changes (Post-Publication; Pre-Publication letter sent)
-Download 
+[Download](/files/Benchmarks/2013-07-05-FX_Post_Pub_Letter_(where_Pre_Pub_sent)_5_Jul.docx)
 
 Suggested form of Letter to Wholesale Customers on FX Benchmark Changes (Pre-Publication)
-Download 
+[Download](/files/Benchmarks/2013-07-05-FX_Post_Pub_Letter_(where_no_Pre_Pub_sent)_5_Jul.docx)
 
 ###### Rates Benchmarks ###### 
 
