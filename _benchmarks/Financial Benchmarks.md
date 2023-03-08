@@ -102,14 +102,14 @@ Suggested Form of Post-Publication Letter to Wholesale Customers on Rates Benchm
 
 ##### 14 Jun 2013 | SFEMC statement on ABS financial benchmarks #####
 SFEMC Statement on ABS Financial Benchmarks
-Download 
+[Download](/files/Benchmarks/2013-06-14-SFEMC_Statement_on_ABS_Financial_Benchmarks.pdf)
 
 ##### 17 Dec 2008 | Recommendations on best practices in relation to dealing mandates #####
 Recommendations on best practices in relation to dealing mandates
-Download 
+[Download](/files/Benchmarks/2008-12-17-Recommendations-Best-Practices-Dealing-Mandates.pdf)
 
 NY FXC letter on dealer mandates, 14 July 2005
-Download 
+[Download](/files/Benchmarks/2008-12-17-NYFXC_dealermandates14July05.pdf)
 
 Recommendations for non-dealer participants
-Download
+[Download](/files/Benchmarks/2008-12-17-Recommendations_nondealerparticipants.pdf)
