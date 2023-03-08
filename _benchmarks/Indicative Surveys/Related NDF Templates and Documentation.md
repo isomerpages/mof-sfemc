@@ -25,7 +25,8 @@ Suggested form of letter to wholesale customers (Updated Mar 4, 2014)
 Download 
 Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 Download 
-Other related documentations
+
+###### Other related documentations ######
 27 Sep 2022: Template Terms for IDR/USD Non-Deliverable FX Transaction (current)
 Download 
 5 Apr 2021: Template Terms for IDR/USD Non-Deliverable FX Transaction
@@ -38,7 +39,8 @@ Download
 Download 
 6 Aug 2013: IDR Indicative Survey Methodology
 Download 
-Documentations for INR/USD NDF
+
+##### Documentations for INR/USD NDF #####
 27 Sep 2022: Template Terms for INR/USD Non Deliverable FX Transactions (current)
 Download 
 10 July 2018: Template Terms for INR/USD Non Deliverable FX Transactions
@@ -82,14 +84,14 @@ Download
 Download 
 
 ##### Past Documentations for PKR/USD NDF and VND/USD NDF (no longer sponsored by SFEMC) #####
-Past Documentations for PKR/USD NDF 
+###### Past Documentations for PKR/USD NDF ######
 19 Sep 2008: Template Terms for PKR/USD Non-Deliverable FX Transaction (no longer in use)
 Download 
 
 14 July 2008: PKR/USD NDF Template Terms and Survey Rate Methodology (no longer in use)
 Download 
 
-##### Past Documentations for VND/USD NDF #####
+###### Past Documentations for VND/USD NDF ######
 14 July 2008: VND/USD NDF Template Terms and Survey Rate Methodology (no longer in use)
 Download 
 
