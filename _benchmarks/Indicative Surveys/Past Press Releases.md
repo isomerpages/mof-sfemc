@@ -6,25 +6,25 @@ third_nav_title: Indicative Surveys
 ---
 ##### 18 Feb 2014 #####
 SFEMC Statement on USD/IDR spot rate benchmark
-Download 
+[Download](/files/Indicative%20Survey/Press%20Release/2014-02-18-SFEMC%20Statement%20dtd%2018%20Feb%202014.pdf)
 
 ##### 1 July 2005 #####
 The Singapore Foreign Exchange Market Committee (SFEMC), EMTA, Inc. and the New York Foreign Exchange Committee are pleased to announce the publication of updated documentation for non-deliverable foreign exchange transactions for the Malaysian Ringgit (MYR). The effective date of the amendment is 15 July 2005 and is available for market participants to agree to on a bilateral basis.
 
 Announcement (pdf, 2 pages)
-Download 
+[Download](/files/Indicative%20Survey/Press%20Release/2005-07-01-LEGALDOCS-Ringgit.pdf)
 
 Addendum to the 2004 Asian Currency Non-Deliverable FX Documentation (pdf, 11 pages)
-Download 
+[Download](/files/Indicative%20Survey/Press%20Release/2005-07-01-MYR%20Documentation%20Package.pdf)
 
 MYR Template Terms (pdf, 4 pages)
-Download 
+[Download](/files/Indicative%20Survey/Press%20Release/2005-07-01-MYR%20Confirmation%20Template.pdf)
 
 MYR Rate Source Definitions (pdf, 1 page)
-Download 
+[Download](/files/Indicative%20Survey/Press%20Release/2005-07-01-MYR%20Rate%20Source%20Definitions.pdf)
 
 MYR Survey Methodology(pdf, 3 pages)
-Download 
+[Download](/files/Indicative%20Survey/Press%20Release/2005-07-01-MYR%20Survey%20Methodology.pdf)
 
 ##### 1 Nov 2004 #####
 The SFEMC, EMTA, and FXC initial Documentation for Non-Deliverable Foreign Exchange Transactions for Six Asian Currencies in 1 Nov 2004
