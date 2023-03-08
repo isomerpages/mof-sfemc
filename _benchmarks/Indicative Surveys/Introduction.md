@@ -38,9 +38,9 @@ The Indicative Survey Rate Methodology is an effort by SFEMC to provide a fallba
 
 Leveraging on market participants’ knowledge of and activities in the various onshore markets, market participants are encouraged to report any price disruption in the respective onshore market relating to each of the seven NDF currencies as and when it occurs i.e. on each day that a disruption is observed. This is to be done via electronic mail to all of the following:
 
-*   SFEMC –&nbsp;[SFEMC\_SURVEY@mas.gov.sg](mailto:SFEMC_SURVEY@mas.gov.sg);
-*   ABS Co. –&nbsp;[absCo@abs.org.sg](mailto:absCo@abs.org.sg); and
-*   Refinitiv –&nbsp;[IndicativeRateSurvey@lseg.com](mailto:IndicativeRateSurvey@lseg.com)
+*   SFEMC – [SFEMC\_SURVEY@mas.gov.sg](mailto:SFEMC_SURVEY@mas.gov.sg);
+*   ABS Co. – [absCo@abs.org.sg](mailto:absCo@abs.org.sg); and
+*   Refinitiv – [IndicativeRateSurvey@lseg.com](mailto:IndicativeRateSurvey@lseg.com)
 
 with subject: “SFEMC Indicative Survey: Price Disruption in ” and shall include the following information:
 
@@ -63,7 +63,7 @@ SFEMC Indicative Survey Rates and Anonymised Contributions will also be publishe
 
 ##### Refinitiv Platform (as of January 2022)
 
-**ACTUAL ACTIVATION**&nbsp;– Indicative Survey Rates
+**ACTUAL ACTIVATION** – Indicative Survey Rates
 
 | Currency | Code | Description |
 | --- | --- | --- |
@@ -129,7 +129,7 @@ _The Template Terms for non-deliverable forwards for various currency pairs publ
 
 _SFEMC disclaims liability for any use made of any of the Template Terms by any market participant, and no representation or warranty, express or implied, is made concerning the terms, their enforceability or suitability for use in connection with any particular transaction. Market participants are advised to consult their own legal and other experts and to make their own determinations regarding these matters._
 
-_In the event that SFEMC (itself or through a service provider) wishes to determine an Indicative Survey Rate for a relevant currency, financial institutions that are active participants in the relevant currency pair and included in the&nbsp;&nbsp;[List of Participating Banks](https://www.sfemc.org/pdf/2022-04-01%20SFEMC%20Indicative%20Survey%20List%20of%20Participating%20Banks.pdf)&nbsp;will be surveyed in accordance with the relevant Indicative Survey Rate Methodology (as updated, revised or supplemented from time to time). SFEMC (or its service provider) shall use all reasonable efforts to conduct the survey. However, the above financial institutions are under no legal or contractual obligation to respond to the survey. As such, SFEMC provides no assurance whatsoever that the Indicative Survey Rate Methodology will result in an indicative survey rate being determined._
+_In the event that SFEMC (itself or through a service provider) wishes to determine an Indicative Survey Rate for a relevant currency, financial institutions that are active participants in the relevant currency pair and included in the [List of Participating Banks](/files/Indicative%20Survey/Intro/2022-04-01%20SFEMC%20Indicative%20Survey%20List%20of%20Participating%20Banks.pdf) will be surveyed in accordance with the relevant Indicative Survey Rate Methodology (as updated, revised or supplemented from time to time). SFEMC (or its service provider) shall use all reasonable efforts to conduct the survey. However, the above financial institutions are under no legal or contractual obligation to respond to the survey. As such, SFEMC provides no assurance whatsoever that the Indicative Survey Rate Methodology will result in an indicative survey rate being determined._
 
 _SFEMC (and any service provider SFEMC may select) disclaims liability for each and every Indicative Survey Rate Methodology and all rates, results or responses (if any) produced by such Indicative Survey Rate Methodology, and no representation or warranty, express or implied, is made concerning any Indicative Survey Rate (including, without limitation, the methodology for determining the relevant Indicative Survey Rate) and its suitability for any particular use._
 
