@@ -1,6 +1,6 @@
 title: Singapore Foreign Exchange Market Committee (SFEMC)
 url: https://www.sfemc.org
-favicon: /images/favicon-isomer.ico
+favicon: /images/sfemc.png
 colors:
   primary-color: "#29409d"
   secondary-color: "#f18a00"
@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dcfbum28zjb2j.amplifyapp.com
 prod: https://master.dcfbum28zjb2j.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/sfemc.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
