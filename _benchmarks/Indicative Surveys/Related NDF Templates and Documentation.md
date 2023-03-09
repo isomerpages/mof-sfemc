@@ -55,16 +55,21 @@ Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 
 ##### Documentations for INR/USD NDF #####
 27 Sep 2022: Template Terms for INR/USD Non Deliverable FX Transactions (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/INR-USD/2022-09-27-INR%20Template%20Rev%202018.pdf)
+
 10 July 2018: Template Terms for INR/USD Non Deliverable FX Transactions
-Download 
+[Download](/files/Indicative%20Survey/NDF/INR-USD/2018-07-10-INR_USD%20NDF%20Template%20(10%20July%202018).pdf)
+
 25 Oct 2006: New and Amended Rate Source Definition for Indian Rupee
-Download 
+[Download](/files/Indicative%20Survey/NDF/INR-USD/2006-10-25-New%20and%20Amended%20Rate%20Source%20Definition.pdf)
+
 17 May 2006: Template Terms for INR/USD Non-Deliverable FX Transaction
-Download 
-Documentations for KRW/USD NDF
+[Download](/files/Indicative%20Survey/NDF/INR-USD/2006-05-17-INR%20Template%20Rev%20dtd%2017%20May%202006.pdf)
+
+##### Documentations for KRW/USD NDF ##### 
 27 Sep 2022: Template Terms for KRW/USD Non Deliverable FX Transactions (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/KRW-USD/2022-09-27-KRW%20Template%20Rev%202006.pdf)
+
 ##### Documentations for MYR/USD NDF #####
 27 Sep 2022: Template Terms for MYR/USD Non-Deliverable FX Transaction (current)
 Download 
