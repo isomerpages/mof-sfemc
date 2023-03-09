@@ -36,17 +36,22 @@ Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 
 ###### Other related documentations ######
 27 Sep 2022: Template Terms for IDR/USD Non-Deliverable FX Transaction (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2022-09-27-IDR%20NDF%20Template%20Rev%20%202014.pdf)
+
 5 Apr 2021: Template Terms for IDR/USD Non-Deliverable FX Transaction
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2021-04-05-Template%20Terms%20for%20IDRUSD%20Non-Deliverable%20FX%20Transaction_IDR%20NDF%20Template%20Rev%202014.pdf)
+
 4 Mar 2014: Template Terms for IDR/USD Non-Deliverable FX Transaction
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-04-IDR%20NDF%20Template%20Rev%20dtd%204%20Mar%202014.pdf)
+
 4 Mar 2014: IDR Indicative Survey Methodology
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-04-IDR%20Methodology%20Rev%20dtd%204%20Mar%202014.pdf)
+
 6 Aug 2013: Template Terms for IDR/USD Non-Deliverable FX Transaction
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2013-08-06-IDR%20USD%20NDF%20template%20dtd%206%20Aug%202013.pdf)
+
 6 Aug 2013: IDR Indicative Survey Methodology
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2013-08-06-IDR%20Indicative%20Survey%20Methodology.pdf)
 
 ##### Documentations for INR/USD NDF #####
 27 Sep 2022: Template Terms for INR/USD Non Deliverable FX Transactions (current)
