@@ -72,17 +72,23 @@ Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 
 ##### Documentations for MYR/USD NDF #####
 27 Sep 2022: Template Terms for MYR/USD Non-Deliverable FX Transaction (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/MYR-USD/2022-09-27-MYR%20NDF%20Template%20Rev%202016.pdf)
+
 6 Aug 2013: Template Terms for MYR/USD Non-Deliverable FX Transaction
-Download 
+[Download](/files/Indicative%20Survey/NDF/MYR-USD/2013-08-06-MYR%20USD%20NDF%20Template%20dtd%206%20Aug%202013.pdf)
+
 6 Aug 2013: MYR Indicative Survey Methodology (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/MYR-USD/2013-08-06-MYR%20Indicative%20Survey%20Methodology.pdf)
+
 17 May 2006: MYR/USD NDF Template Terms and Survey Rate Methodology
-Download 
+[Download](/files/Indicative%20Survey/NDF/MYR-USD/2006-05-17-MYR%20Doc%20Package%20dtd%2017%20May%202006.pdf)
+
 1 July 2005: Template Terms for MYR/USD Non-Deliverable FX Transaction
-Download 
+[Download](/files/Indicative%20Survey/NDF/MYR-USD/2005-07-01-MYR%20Confirmation%20Template%20dtd%201%20July%202005.pdf)
+
 1 July 2005: MYR Survey Methodology
-Download 
+[Download](/files/Indicative%20Survey/NDF/MYR-USD/2005-07-01-MYR%20Survey%20Methodology%20dtd%201%20July%202005.pdf)
+
 ##### Documentations for PHP/USD NDF #####
 27 Sep 2022: Template Terms for PHP/USD Non Deliverable FX Transactions (current)
 Download 
