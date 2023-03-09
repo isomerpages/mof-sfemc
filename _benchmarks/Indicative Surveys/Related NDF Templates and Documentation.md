@@ -34,7 +34,7 @@ Suggested form of letter to wholesale customers (Updated Mar 4, 2014)
 Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 [Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-Extension_of_IDR-MAA_Submission_Deadline.pdf)
 
-###### Other related documentations ######
+** Other related documentations **
 27 Sep 2022: Template Terms for IDR/USD Non-Deliverable FX Transaction (current)
 [Download](/files/Indicative%20Survey/NDF/IDR%20USD/2022-09-27-IDR%20NDF%20Template%20Rev%20%202014.pdf)
 
