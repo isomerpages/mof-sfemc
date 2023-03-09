@@ -91,33 +91,38 @@ Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 
 ##### Documentations for PHP/USD NDF #####
 27 Sep 2022: Template Terms for PHP/USD Non Deliverable FX Transactions (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/PHP-USD/2022-09-27-PHP%20Template%20Rev%20April%202018.pdf)
+
 1 April 2018: Template Terms for PHP/USD Non Deliverable FX Transactions
-Download 
+[Download](/files/Indicative%20Survey/NDF/PHP-USD/2018-04-01-SFEMC%20PHP%20Template%20Revised%20(1%20April%202018).pdf)
+
 29 March 2018: Recommended FX and Currency Derivatives Market Practice on Revisions to PHP/USD Rate Source Definition (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/PHP-USD/2018-03-29%20Market%20Practice_PHP%20Template%20Term.pdf)
+
 25 Oct 2006: Template Terms for PHP/USD Non Deliverable FX Transaction
-Download 
+[Download](/files/Indicative%20Survey/NDF/PHP-USD/2006-10-25-PHP%20Template%20Rev%20dtd%2025%20Oct%202006.pdf)
+
 25 Oct 2006: New and Amended Rate Source Definition for Philippine Peso/p>
-Download 
+[Download](/files/Indicative%20Survey/NDF/PHP-USD/2006-10-25-New%20and%20Amended%20Rate%20Source%20Definition.pdf)
+
 ##### Documentations for TWD/USD NDF #####
 27 Sep 2022: Template Terms for TWD/USD Non Deliverable FX Transactions (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/TWD-USD/2022-09-27-TWD%20Template%20Rev%202006.pdf)
 
 17 May 2006: Template Terms for TWD/USD Non Deliverable FX Transactions
-Download 
+[Download](/files/Indicative%20Survey/NDF/TWD-USD/2006-05-17-TWD_USD%20NDF%20Template%20(17%20May%202006).pdf)
 
 ##### Past Documentations for PKR/USD NDF and VND/USD NDF (no longer sponsored by SFEMC) #####
 ###### Past Documentations for PKR/USD NDF ######
 19 Sep 2008: Template Terms for PKR/USD Non-Deliverable FX Transaction (no longer in use)
-Download 
+[Download](/files/Indicative%20Survey/NDF/PKR-USD/2008-09-19-PKR%20Template%20dtd%2019%20Sep%202008.pdf)
 
 14 July 2008: PKR/USD NDF Template Terms and Survey Rate Methodology (no longer in use)
-Download 
+[Download](/files/Indicative%20Survey/NDF/PKR-USD/2008-07-14-PKR%20and%20VND%20Documentation%20package.pdf)
 
 ###### Past Documentations for VND/USD NDF ######
 14 July 2008: VND/USD NDF Template Terms and Survey Rate Methodology (no longer in use)
-Download 
+[Download](/files/Indicative%20Survey/NDF/PKR-USD/2008-07-14-PKR%20and%20VND%20Documentation%20package.pdf)
 
 ##### Past Versions of User's Guide #####
 
