@@ -23,4 +23,5 @@ The meeting noted that the market for MYR had been severely disrupted by the rec
 All affected parties should exert their best efforts to reach an appropriate close-out arrangement. A practical date for making the net payment would be.
   
 8th Sep 98.
+
 VICTOR LIEW CHAIRMAN
