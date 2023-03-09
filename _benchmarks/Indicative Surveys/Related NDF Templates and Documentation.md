@@ -6,25 +6,33 @@ third_nav_title: Indicative Surveys
 ---
 ##### Documentations for CNY/USD NDF #####
 27 Sep 2022: Template Terms for CNY/USD Non Deliverable FX Transactions (current)
-Download 
+[Download](/files/Indicative%20Survey/NDF/CNY-USD/2022-09-27-CNY%20Template%20Rev%202006.pdf)
+
 17 May 2006: Template Terms for CNY/USD Non Deliverable FX Transactions
-Download 
+[Download](/files/Indicative%20Survey/NDF/CNY-USD/2006-05-17-CNY_USD%20NDF%20Template%20(17%20Mar%202006).pdf)
+
 ##### Documentations for IDR/USD NDF #####
 4 Mar 2014: IDR Benchmark Changes
 SFEMC Statement
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-SFEMC_Statement_dtd_4_Mar_2014.pdf)
+
 SFEMC Explanatory Note
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-SFEMC%20Explanatory%20Note%20dtd%204%20Mar%202014.pdf)
+
 Multilateral Amendment Agreement (IDR-MAA) (Updated Mar 4, 2014)
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-Multilateral%20Amendment%20Agreement.pdf)
+
 Multilateral Amendment Agreement (IDR-MAA) - Signature Page (Updated Mar 4, 2014)
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-IDR-MAA%20Signature%20Page%20dtd%204%20Mar%202014.docx)
+
 Bilateral Amendment Agreement (IDR-BAA) (Updated Mar 4, 2014)
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-IDR-BAA%20dtd%204%20Mar%202014.docx)
+
 Suggested form of letter to wholesale customers (Updated Mar 4, 2014)
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-IDR-MAA%20Post-Pub%20Letter%204%20Mar%202014.docx)
+
 Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
-Download 
+[Download](/files/Indicative%20Survey/NDF/IDR%20USD/2014-03-14-Extension_of_IDR-MAA_Submission_Deadline.pdf)
 
 ###### Other related documentations ######
 27 Sep 2022: Template Terms for IDR/USD Non-Deliverable FX Transaction (current)
