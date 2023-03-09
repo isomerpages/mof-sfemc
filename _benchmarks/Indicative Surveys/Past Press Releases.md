@@ -68,4 +68,4 @@ The SFEMC Indicative Survey Rate Methodologies for Six Asian Currencies (pdf, 18
 [Download](/files/Indicative%20Survey/Press%20Release/2004-11-01-SFEMC%20Survey%20Methodology%20dtd%2027%20Oct%202004.pdf)
 
 Please download the list of Financial Institutions that have signed the multilateral amendment here
-[[Download](/files/Indicative%20Survey/Press%20Release/2004-11-01-NDF%20signatories.docx)
+[Download](/files/Indicative%20Survey/Press%20Release/2004-11-01-NDF%20signatories.docx)
