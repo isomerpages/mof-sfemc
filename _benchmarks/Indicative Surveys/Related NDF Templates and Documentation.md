@@ -127,10 +127,10 @@ Extension of IDR-MAA Submission Deadline (Updated Mar 26, 2014)
 ##### Past Versions of User's Guide #####
 
 25 Oct 2006: Updated User's Guide
-Download 
+[Download](/files/Indicative%20Survey/NDF/2006-10-25-User%20Guide%20dtd%2025%20Oct%202006.pdf)
 
 17 May 2006: Updated User's Guide
-Download 
+[Download](/files/Indicative%20Survey/NDF/2006-05-17-User%20Guide%20dtd%2017%20May%202006.pdf)
 
 1 Nov 2004: User's Guide
-Download
+[Download](/files/Indicative%20Survey/NDF/2004-11-01-User%20Guide%20dtd%201%20Nov%202004.pdf)
