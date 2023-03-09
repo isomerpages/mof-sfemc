@@ -5,7 +5,7 @@ description: The SFEMC was established in 1986 to foster the growth and
   development of Singapore as a leading global financial centre in Asia, with
   specific focus on foreign exchange, money markets, fixed income and
   derivatives markets.
-image: /images/isomer-logo.svg
+image: /images/sfemc.png
 permalink: /
 notification: "Notification: This is a staging site!"
 sections:
@@ -33,3 +33,4 @@ sections:
       button: Learn More
       url: /bluebook/
 ---
+
