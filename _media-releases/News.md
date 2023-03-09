@@ -36,7 +36,7 @@ ABS-SFEMC Consultation on the Evolution of SIBOR
 
 ##### 25 May 2017 |  Joint Statement on the Publication of the FX Global Code: May 2017 #####
 Joint Statement on the Publication of the FX Global Code: May 2017
-[Download(/files/Media/FINAL_For_publication_Joint_FXC_Statement.pdf)
+[Download](/files/Media/FINAL_For_publication_Joint_FXC_Statement.pdf)
 
 ##### 27 May 2016 | Joint Statement on the Publication of the FX Global Code - May 2016 Update #####
 Joint Statement on the Publication of the FX Global Code - May 2016 Update
