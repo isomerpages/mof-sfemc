@@ -17,8 +17,8 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Industry Good Practice
-          description: The Blue Book
-          url: /blue-book/
+          description: The Blue Book and FX Global Code
+          url: /industry-good-practice/blue-book/
         - title: SFEMC Public Register
           description: Singapore-based participants
           url: /public-register/
@@ -27,11 +27,9 @@ sections:
           url: /statistics/
   - infobar:
       title: Industry Good Practice
-      description: The SFEMC has developed this set of principles of good practice,
-        “The Singapore Guide to Conduct and Market Practices for the Wholesale
-        Financial Markets”.
+      description: The SFEMC has developed this set of principles of good practice, “The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets”, also commonly referred to as “The Blue Book”. This Guide applies in parallel with the FX Global Code. The Guide, together with the Global Code, is intended to foster a high standard of conduct and good market practices, ensure equitable and healthy relationships between participants and facilitate market efficiency.
       button: Learn More
-      url: /blue-book/
+      url: /industry-good-practice/blue-book/
   - infobar:
       title: Public Register
       description: A standardised "Statement of Commitment" is available by which market participants can demonstrate their recognition of, and commitment to adopting the good practices set forth in the FX Global Code. 
