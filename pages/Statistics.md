@@ -48,9 +48,8 @@ Survey of Singapore FX Volume](/files/Survey/2018-04%20Survey%20FX.xlsx)
 [October 2017
 Survey of Singapore FX Volume](/files/Survey/2017-10%20Survey%20FX.xlsx)
 
-April 2017
-Survey of Singapore FX Volume
-[Download](/files/Survey/2017-04%20Survey%20FX.xlsx)
+[April 2017
+Survey of Singapore FX Volume](/files/Survey/2017-04%20Survey%20FX.xlsx)
 
 #### 2016 ####
 
