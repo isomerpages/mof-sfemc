@@ -57,7 +57,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |EBS part of CME Group  | E-trading platform | 2019-02 | 2022-06-10 | [](/files/Pdf/Register/EBS.pdf) | N.A.|
 |Edgewater Markets  | E-trading platform | 2022-09 | 2022-09-29 | [](/files/Pdf/Register/Edgewater.pdf) | N.A.|
 |EFG Bank AG, Singapore Branch  | Bank | 2021-08 | 2022-09-22 | [](/files/Pdf/Register/Statement of Commitment (EFG Bank AG SG Branch).pdf) | N.A.|
-|Euronext Markets Singapore Pte Ltd.  | E-trading platform | 2019-10 | 2022-09-13 | [](/files/Pdf/Register/Euronext.pdf) | [](/files/Pdf/Register/Euronext_Disclosure_Cover_Sheet.pdf)|
+|Euronext Markets Singapore Pte Ltd.  | E-trading platform | 2019-10 | 2022-09-13 | [](/files/Pdf/Register/Euronext.pdf) | [](/files/Pdf/Dcs/Euronext_Disclosure_Cover_Sheet.pdf)|
 |First Commercial Bank, Ltd.  | Bank | 2019-01 | 2018-12-20 | [](/files/Pdf/Register/FIRSTCOMMERCIALBANK.pdf) | N.A.|
 |GIC Private Limited  | Sovereign wealth fund | 2019-01 | 2022-08-02 | [](/files/Pdf/Register/GIC.pdf) | N.A.|
 |Graticule Asset Management Asia, L.P.  | Asset manager | 2019-01 | 2018-04-30 | [](/files/Pdf/Register/Graticule.pdf) | N.A.|
