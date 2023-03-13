@@ -8,14 +8,14 @@ The FX Global Code is a set of global principles of good practice in the foreign
 
 A key part of the FX Global Code is the Statement of Commitment. This is a single, common basis by which market participants can demonstrate their commitment to adhere to the FX Global Code.
 
-For more information about the FX Global Code and the Statement of Commitment, please see the Global Foreign Exchange Committee website.
+For more information about the FX Global Code and the Statement of Commitment, please see the [Global Foreign Exchange Committee website](https://www.globalfxc.org).
 
  
 
 ##### SFEMC Public Register
-The SFEMC is hosting a public register where Singapore-based market participants can publish their Statement of Commitments. The SFEMC public register is a participating public register on the Global Index of Public Registers, which acts as a central location that links various public registers, providing a comprehensive view of market participants’ commitment to good practices.
+The SFEMC is hosting a public register where Singapore-based market participants can publish their Statement of Commitments. The SFEMC public register is a participating public register on the [Global Index of Public Registers](https://www.globalfxc.org/public_registers.htm), which acts as a central location that links various public registers, providing a comprehensive view of market participants’ commitment to good practices.
 
-Singapore-based market participants interested to publish their Statement of Commitments on the SFEMC public register can write to SFEMC_SURVEY@mas.gov.sg.
+Singapore-based market participants interested to publish their Statement of Commitments on the SFEMC public register can write to [SFEMC_SURVEY@mas.gov.sg](mailto:SFEMC_SURVEY@mas.gov.sg).
 
 The SFEMC does not assume responsibility for (a) verifying the accuracy or validity of a market participant’s Statement of Commitment; or (b) monitoring adherence to the Code by market participants.
 
@@ -29,7 +29,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Australia and New Zealand Banking Group Limited  | Bank | 2019-01 | 2022-05-20 | [](/files/Pdf/Register/ANZ.pdf) | N.A.|
 |Bangkok Bank Public Company Limited, Singapore Branch  | Bank | 2019-01 | 2018-11-30 | [](/files/Pdf/Register/BangkokBank.pdf) | N.A.|
 |Bank of America Singapore Limited  | Bank | 2019-01 | 2022-06-22 | [](/files/Pdf/Register/BANKOFAMERICASINGAPORE.pdf) | [](/files/Pdf/Dcs/Bank of America Singapore - Disclosure Sheet.pdf)|
-|Bank of America, ., Global Banking and Markets  | Bank | 2019-01 | 2018-04-02 | [](/files/Pdf/Register/BoA.pdf) | N.A.|
+|Bank of America, N.A., Global Banking and Markets  | Bank | 2019-01 | 2018-04-02 | [](/files/Pdf/Register/BoA.pdf) | N.A.|
 |Bank of Communications Co., Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-28 | [](/files/Pdf/Register/BANKOFCOMMUNICATIONS.pdf) | N.A.|
 |Bank of Taiwan, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/BANKOFTAIWAN.pdf) | N.A.|
 |Bank Pictet & Cie (Asia) Ltd  | Bank | 2019-02 | 2019-01-18 | [](/files/Pdf/Register/Pictet.pdf) | N.A.|
