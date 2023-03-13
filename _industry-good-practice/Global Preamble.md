@@ -22,5 +22,5 @@ The committees listed below collaborated in the drafting of the Global Preamble 
 *   Singapore Foreign Exchange Market Committee
 *   Tokyo Foreign Exchange Market Committee
 
-###### Download
+#### Download Global Preamble ####
 [Codes of Best Market Practice and Shared Global Principles](/files/global_preamble_2015.pdf)
