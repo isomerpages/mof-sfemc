@@ -10,29 +10,14 @@ The template terms for non-deliverable forwards for certain currencies published
 
 The SFEMC currently sponsors the following indicative survey rate methodologies (each an “**Indicative Survey Rate Methodology**”) to calculate such fallback reference prices:
 
-SFEMC CNY Indicative Survey Rate Methodology
-[Download](/files/Indicative%20Survey/Intro/2022-04%20CNY%20Indicative%20Survey%20Methodology.pdf)
-
-SFEMC IDR Indicative Survey Rate Methodology
-[Download](/files/Indicative%20Survey/Intro/2022-04%20IDR%20Indicative%20Survey%20Methodology.pdf)
-
-SFEMC INR Indicative Survey Rate Methodology
-[Download](/files/Indicative%20Survey/Intro/2022-04%20INR%20Indicative%20Survey%20Methodology.pdf)
-
-SFEMC KRW Indicative Survey Rate Methodology
-[Download](/files/Indicative%20Survey/Intro/2022-04%20KRW%20Indicative%20Survey%20Methodology.pdf)
-
-SFEMC MYR Indicative Survey Rate Methodology
-[Download](/files/Indicative%20Survey/Intro/2022-04%20MYR%20Indicative%20Survey%20Methodology.pdf)
-
-SFEMC PHP Indicative Survey Rate Methodology
-[Download](/files/Indicative%20Survey/Intro/2022-04%20PHP%20Indicative%20Survey%20Methodology.pdf)
-
-SFEMC TWD Indicative Survey Rate Methodology
-[Download](/files/Indicative%20Survey/Intro/2022-04%20TWD%20Indicative%20Survey%20Methodology.pdf)
-
-SFEMC Indicative Survey Best Practice Guide
-[Download](/files/Indicative%20Survey/Intro/2022-04%20SFEMC%20Indicative%20Survey%20Best%20Practice%20Guide.pdf)
+*   [SFEMC CNY Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20CNY%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC IDR Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20IDR%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC INR Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20INR%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC KRW Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20KRW%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC MYR Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20MYR%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC PHP Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20PHP%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC TWD Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20TWD%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC Indicative Survey Best Practice Guide](/files/Indicative%20Survey/Intro/2022-04%20SFEMC%20Indicative%20Survey%20Best%20Practice%20Guide.pdf)
 
 The Indicative Survey Rate Methodology is an effort by SFEMC to provide a fallback reference price for an orderly settlement across markets in the event of a price source disruption.
 
@@ -80,16 +65,16 @@ SFEMC Indicative Survey Rates and Anonymised Contributions will also be publishe
 
 | Currency | Code | Description |
 | --- | --- | --- |
-| ALL | SFEMCNDISR= | This is a tile where all the currencies are consolidated into a single view. |
-| CNY | NDISRCNY= | This is a RIC where the CNY Indicative Rate is displayed with the publication date and time. |
-| IDR | NDISRIDR= | This is a RIC where the IDR Indicative Rate is displayed with the publication date and time. |
-| INR | NDISRINR= | This is a RIC where the INR Indicative Rate is displayed with the publication date and time. |
-| KRW | NDISRKRW= | This is a RIC where the KRW Indicative Rate is displayed with the publication date and time. |
-| MYR | NDISRMYR= | This is a RIC where the MYR Indicative Rate is displayed with the publication date and time. |
-| PHP | NDISRPHP= | This is a RIC where the PHP Indicative Rate is displayed with the publication date and time. |
-| TWD | NDISRTWD= | This is a RIC where the TWD Indicative Rate is displayed with the publication date and time. |
+| ALL | SFEMCNDISR=\<nn\> | This is a tile where all the currencies are consolidated into a single view. |
+| CNY | NDISRCNY=\<nn\> | This is a RIC where the CNY Indicative Rate is displayed with the publication date and time. |
+| IDR | NDISRIDR=\<nn\> | This is a RIC where the IDR Indicative Rate is displayed with the publication date and time. |
+| INR | NDISRINR=\<nn\> | This is a RIC where the INR Indicative Rate is displayed with the publication date and time. |
+| KRW | NDISRKRW=\<nn\> | This is a RIC where the KRW Indicative Rate is displayed with the publication date and time. |
+| MYR | NDISRMYR=\<nn\> | This is a RIC where the MYR Indicative Rate is displayed with the publication date and time. |
+| PHP | NDISRPHP=\<nn\> | This is a RIC where the PHP Indicative Rate is displayed with the publication date and time. |
+| TWD | NDISRTWD=\<nn\> | This is a RIC where the TWD Indicative Rate is displayed with the publication date and time. |
 
-\* refers to the random two (2) digit number assigned to each Participating Bank.
+\*\<NN\> refers to the random two (2) digit number assigned to each Participating Bank.
 
 **TEST RUNS**&nbsp;– Indicative Survey Rates
 
@@ -108,20 +93,20 @@ SFEMC Indicative Survey Rates and Anonymised Contributions will also be publishe
 
 | Currency | Code | Description |
 | --- | --- | --- |
-| ALL | TSFEMCNDISR= | This is a tile where all the test currencies are consolidated into a single view. |
-| CNY | TNDISRCNY= | This is a RIC where the test CNY Indicative Rate is displayed with the publication date and time. |
-| IDR | TNDISRIDR= | This is a RIC where the test IDR Indicative Rate is displayed with the publication date and time. |
-| INR | TNDISRINR= | This is a RIC where the test INR Indicative Rate is displayed with the publication date and time. |
-| KRW | TNDISRKRW= | This is a RIC where the test KRW Indicative Rate is displayed with the publication date and time. |
-| MYR | TNDISRMYR= | This is a RIC where the test MYR Indicative Rate is displayed with the publication date and time. |
-| PHP | TNDISRPHP= | This is a RIC where the test PHP Indicative Rate is displayed with the publication date and time. |
-| TWD | TNDISRTWD= | This is a RIC where the test TWD Indicative Rate is displayed with the publication date and time. |
+| ALL | TSFEMCNDISR=\<nn\> | This is a tile where all the test currencies are consolidated into a single view. |
+| CNY | TNDISRCNY=\<nn\> | This is a RIC where the test CNY Indicative Rate is displayed with the publication date and time. |
+| IDR | TNDISRIDR=\<nn\> | This is a RIC where the test IDR Indicative Rate is displayed with the publication date and time. |
+| INR | TNDISRINR=\<nn\> | This is a RIC where the test INR Indicative Rate is displayed with the publication date and time. |
+| KRW | TNDISRKRW=\<nn\> | This is a RIC where the test KRW Indicative Rate is displayed with the publication date and time. |
+| MYR | TNDISRMYR=\<nn\> | This is a RIC where the test MYR Indicative Rate is displayed with the publication date and time. |
+| PHP | TNDISRPHP=\<nn\> | This is a RIC where the test PHP Indicative Rate is displayed with the publication date and time. |
+| TWD | TNDISRTWD=\<nn\> | This is a RIC where the test TWD Indicative Rate is displayed with the publication date and time. |
 
-\* refers to the random two (2) digit number assigned to each Participating Bank.
+\*\<NN\> refers to the random two (2) digit number assigned to each Participating Bank.
 
 ##### Bloomberg Platform (as of January 2022)
 
-Bloomberg Ticker: SFMC 
+Bloomberg Ticker: SFMC \<GO\> 
 
 ##### DISCLAIMERS:  
 
