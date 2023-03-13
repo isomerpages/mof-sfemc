@@ -6,8 +6,8 @@ description: ""
 #### Singapore
 
 
-| <p style="text-align: center;"> Monetary Authority of Singapore </p> | The Association of Banks in Singapore | ACI Singapore | The Institute of Banking and Finance Singapore |
-| -------- | -------- | -------- | -------- |
+| Monetary Authority of Singapore | The Association of Banks in Singapore | ACI Singapore | The Institute of Banking and Finance Singapore |
+| :--------: | :--------: | :--------: | :--------: |
 | [![mas](/images/logo-mas.png)](http://www.mas.gov.sg/)     | [![abs](/images/logo-abs.png)](http://www.abs.org.sg/)     | [![aci](/images/logo-aci.png)](http://www.acisin.com/)     |  [![ibf](/images/logo-ibf.png)](http://www.ibf.org.sg/) |
 
 
