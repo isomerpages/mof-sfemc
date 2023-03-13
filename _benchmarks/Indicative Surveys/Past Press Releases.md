@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Indicative Surveys
 ---
 ##### 18 Feb 2014 #####
-SFEMC Statement on USD/IDR spot rate benchmark
-[Download](/files/Indicative%20Survey/Press%20Release/2014-02-18-SFEMC%20Statement%20dtd%2018%20Feb%202014.pdf)
+[SFEMC Statement on USD/IDR spot rate benchmark](/files/Indicative%20Survey/Press%20Release/2014-02-18-SFEMC%20Statement%20dtd%2018%20Feb%202014.pdf)
 
 ##### 1 July 2005 #####
 The Singapore Foreign Exchange Market Committee (SFEMC), EMTA, Inc. and the New York Foreign Exchange Committee are pleased to announce the publication of updated documentation for non-deliverable foreign exchange transactions for the Malaysian Ringgit (MYR). The effective date of the amendment is 15 July 2005 and is available for market participants to agree to on a bilateral basis.
