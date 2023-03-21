@@ -7,7 +7,7 @@ description: The SFEMC was established in 1986 to foster the growth and
   derivatives markets.
 image: /images/sfemc.png
 permalink: /
-notification: "Notification: This is a staging site!"
+notification: ""
 sections:
   - hero:
       title: Singapore Foreign Exchange Market Committee (SFEMC)
