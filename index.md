@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: Industry Good Practice
           description: The Blue Book and FX Global Code
-          url: /industry-good-practice/blue-book/
+          url: /industry-good-practice-blue-book/
         - title: SFEMC Public Register
           description: Singapore-based participants
           url: /public-register/
