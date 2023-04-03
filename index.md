@@ -35,7 +35,7 @@ sections:
         and good market practices, ensure equitable and healthy relationships
         between participants and facilitate market efficiency.
       button: Learn More
-      url: /industry-good-practice/blue-book/
+      url: /industry-good-practice-blue-book/
   - infobar:
       title: Public Register
       description: A standardised "Statement of Commitment" is available by which
