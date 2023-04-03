@@ -1,8 +1,9 @@
 ---
 title: Blue Book
-permalink: /industry-good-practice/blue-book/
+permalink: /industry-good-practice-blue-book/
 description: ""
 ---
+
 ##### Current Version
 [The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets
 (with effect from 12 Apr 2018)](/files/blue_book_wholesale.pdf)
