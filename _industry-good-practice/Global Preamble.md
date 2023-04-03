@@ -1,6 +1,6 @@
 ---
 title: Global Preamble
-permalink: /industry-good-practice/global-preamble/
+permalink: /industry-good-practice-global-preamble/
 description: ""
 ---
 Published on 30 March 2015
