@@ -1,6 +1,6 @@
 ---
 title: Competition Law Guidelines for SFEMC
-permalink: /about-sfemc/competition-law-guidelines/
+permalink: /sfemc-competition-law-guidelines/
 description: ""
 ---
 As of 8 July 2019
