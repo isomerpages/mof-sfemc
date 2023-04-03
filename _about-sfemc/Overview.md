@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /about-sfemc/overview/
+permalink: /sfemc-overview/
 description: ""
 ---
 The Singapore Foreign Exchange Market Committee (“SFEMC”) aims to foster the growth and development of Singapore as a leading global financial centre in Asia, with specific focus on foreign exchange, money markets, fixed income and derivatives markets.
