@@ -1,6 +1,6 @@
 ---
 title: Financial Benchmarks
-permalink: /benchmarks/financial-benchmarks/
+permalink: /benchmarks-financial-benchmarks/
 description: ""
 ---
 ##### 11 Dec 2020 | SIBOR Reform and the Future Landscape for SGD Interest Rate Benchmarks #####
