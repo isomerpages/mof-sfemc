@@ -1,6 +1,6 @@
 ---
-title: News
-permalink: /media-releases/news/
+title: New
+permalink: /media-releases-new/
 description: ""
 ---
 ##### 11 December 2020 | Key Financial Industry Committees Set Out Timelines for SIBOR Discontinuation ##### 
