@@ -1,6 +1,6 @@
 ---
 title: Committee Members
-permalink: /about-sfemc/committee-members/
+permalink: /sfemc-committee-members/
 description: ""
 ---
 | Name | Company | 
