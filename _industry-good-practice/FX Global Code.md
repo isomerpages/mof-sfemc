@@ -1,6 +1,6 @@
 ---
 title: FX Global Code
-permalink: /industry-good-practice/fx-global-code/
+permalink: /industry-good-practice-fx-global-code/
 description: ""
 ---
 ##### Overview
