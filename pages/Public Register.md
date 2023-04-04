@@ -35,7 +35,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 		<td>Broker or investment adviser</td>
 		<td>2019-05</td>
 		<td>2019-05-14</td>
-		<td><a href="/files/Pdf/Register/ABOC.pdf"></a></td>
+		<td><a href="/files/Pdf/Register/ABOC.pdf"><img style="width:15%;" src="/images/icon-pdf.jpg"></a></td>
 		<td>N.A </td> 
 	</tr>
 
