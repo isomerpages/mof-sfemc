@@ -11,18 +11,17 @@ description: ""
 | [![mas](/images/logo-mas.png)](http://www.mas.gov.sg/)&nbsp;    | [![abs](/images/logo-abs.png)](http://www.abs.org.sg/)     | [![aci](/images/logo-aci.png)](http://www.acisin.com/)&nbsp;    |  [![ibf](/images/logo-ibf.png)](http://www.ibf.org.sg/) |
 
 <table> 
-		<tbody><tr>
-		<th>Monetary Authority of Singapore</th>
-		<th>Type</th>
-		<th>Date of Admission</th>
-		<th>Date of Statement</th>
-
+<tbody><tr>
+		<td>Monetary Authority of Singapore</td>
+		<td>The Association of Banks in Singapore</td>
+		<td>ACI Singapore</td>
+		<td>The Institute of Banking and Finance Singapore</td>
 	</tr>
 	<tr>
-		<td><img width="25%" src="/images/logo-mas.png"></td>
-		<td width="25%">Bank</td>
-		<td width="25%">2019-05</td>
-		<td width="25%">2019-05-14</td>
+		<td width="25%"><img src="/images/logo-mas.png"></td>
+		<td width="25%"><img src="/images/logo-abs.png"></td>
+		<td width="25%"><img src="/images/logo-aci.png"></td>
+		<td width="25%"><img src="/images/logo-ibf.png"></td>
 
 	</tr>
 </tbody></table>
