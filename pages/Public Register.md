@@ -23,7 +23,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 
 
 
-| Market Participant | Type | Date of Admission | Date of Statement     | Statement of Commitments     | Disclosure Cover Sheet     |
+| Market Participant | Type | Date of Admission | Date of Statement     | Statements of Commitment     | Disclosure Cover Sheet     |
 | -------- | -------- | -------- |  -------- | -------- | -------- |
 |Agricultural Bank of China Limited, Singapore Branch  | Bank | 2019-05 | 2019-05-14 | [](/files/Pdf/Register/ABOC.pdf) | N.A.|
 |Australia and New Zealand Banking Group Limited  | Bank | 2019-01 | 2022-05-20 | [](/files/Pdf/Register/ANZ.pdf) | N.A.|
@@ -112,4 +112,3 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |United Overseas Bank Limited – UOB Singapore  | Bank | 2019-01 | 2022-07-22 | [](/files/Pdf/Register/UOB.pdf) | N.A.|
 |VP Bank Ltd, Singapore Branch  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/VPBANK.pdf) | N.A.|
 |Westpac Banking Corporation  | Bank | 2019-01 | 2022-08-11 | [](/files/Pdf/Register/WESTPACBANKINGCORPORATION.pdf) | N.A.|
-
