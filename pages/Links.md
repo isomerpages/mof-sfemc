@@ -19,7 +19,7 @@ description: ""
 
 	</tr>
 	<tr>
-		<td width="25%"><img src="/images/logo-mas.png"></td>
+		<td><img width="25%" src="/images/logo-mas.png"></td>
 		<td width="25%">Bank</td>
 		<td width="25%">2019-05</td>
 		<td width="25%">2019-05-14</td>
