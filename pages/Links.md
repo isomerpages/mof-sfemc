@@ -8,7 +8,24 @@ description: ""
 
 | Monetary Authority of Singapore | The Association of Banks in Singapore | ACI Singapore | The Institute of Banking and Finance Singapore |
 | :--------: | :--------: | :--------: | :--------: |
-| [![mas](/images/logo-mas.png)](http://www.mas.gov.sg/)     | [![abs](/images/logo-abs.png)](http://www.abs.org.sg/)     | [![aci](/images/logo-aci.png)](http://www.acisin.com/)     |  [![ibf](/images/logo-ibf.png)](http://www.ibf.org.sg/) |
+| [![mas](/images/logo-mas.png)](http://www.mas.gov.sg/)&nbsp;    | [![abs](/images/logo-abs.png)](http://www.abs.org.sg/)     | [![aci](/images/logo-aci.png)](http://www.acisin.com/)&nbsp;    |  [![ibf](/images/logo-ibf.png)](http://www.ibf.org.sg/) |
+
+<table> 
+	<tbody><tr>
+		<th>Monetary Authority of Singapore</th>
+		<th>Type</th>
+		<th>Date of Admission</th>
+		<th>Date of Statement</th>
+
+	</tr>
+	<tr>
+		<td width="25%"><img src="/images/logo-mas.png)"></td>
+		<td width="25%">Bank</td>
+		<td width="25%">2019-05</td>
+		<td width="25%">2019-05-14</td>
+
+	</tr>
+</tbody></table>
 
 
 
