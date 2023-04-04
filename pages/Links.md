@@ -11,7 +11,7 @@ description: ""
 | [![mas](/images/logo-mas.png)](http://www.mas.gov.sg/)&nbsp;    | [![abs](/images/logo-abs.png)](http://www.abs.org.sg/)     | [![aci](/images/logo-aci.png)](http://www.acisin.com/)&nbsp;    |  [![ibf](/images/logo-ibf.png)](http://www.ibf.org.sg/) |
 
 <table> 
-	<tbody><tr>
+		<tbody><tr>
 		<th>Monetary Authority of Singapore</th>
 		<th>Type</th>
 		<th>Date of Admission</th>
