@@ -57,6 +57,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |EBS part of CME Group  | E-trading platform | 2019-02 | 2022-06-10 | [](/files/Pdf/Register/EBS.pdf) | N.A.|
 |Edgewater Markets  | E-trading platform | 2022-09 | 2022-09-29 | [](/files/Pdf/Register/Edgewater.pdf) | N.A.|
 |EFG Bank AG, Singapore Branch  | Bank | 2021-08 | 2022-09-22 | [](/files/Pdf/Register/Statement of Commitment (EFG Bank AG SG Branch).pdf) | N.A.|
+|EIS Global Pte Ltd  | Non-bank liquidity provider | 2023-03 | 2023-03-07 | [](/files/Pdf/Register/EISGlobal.pdf) | N.A.|
 |Euronext Markets Singapore Pte Ltd.  | E-trading platform | 2019-10 | 2022-09-13 | [](/files/Pdf/Register/Euronext.pdf) | [](/files/Pdf/Dcs/Euronext_Disclosure_Cover_Sheet.pdf)|
 |First Commercial Bank, Ltd.  | Bank | 2019-01 | 2018-12-20 | [](/files/Pdf/Register/FIRSTCOMMERCIALBANK.pdf) | N.A.|
 |GIC Private Limited  | Sovereign wealth fund | 2019-01 | 2022-08-02 | [](/files/Pdf/Register/GIC.pdf) | N.A.|
@@ -81,7 +82,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |National Australia Bank Limited  | Bank | 2019-01 | 2017-06-16 | [](/files/Pdf/Register/NATIONALAUSTRALIABANK.pdf) | N.A.|
 |National Bank of Kuwait SAKP, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/NATIONALBANKOFKUWAIT.pdf) | N.A.|
 |NatWest Markets Plc  | Bank | 2019-01 | 2022-06-07 | [](/files/Pdf/Register/NATWESTMARKETS.pdf) | [](/files/Pdf/Dcs/liquidity-provider-disclosure-cover-sheet (Natwest).pdf)|
-|Nomura, Global Markets Foreign Exchange Division  | Bank | 2019-01 | 2018-06-29 | [](/files/Pdf/Register/Nomura.pdf) | N.A.|
+|Nomura, Global Markets Foreign Exchange Division  | Bank | 2019-01 | 2018-06-29 | [](/files/Pdf/Register/Nomura.pdf) | [](/files/Pdf/Dcs/Nomura Liquidity Provider Disclosure Cover Sheet.pdf) |
 |Norddeutsche Landesbank - Girozentrale  | Bank | 2019-01 | 2018-12-05 | [](/files/Pdf/Register/NorddeutscheLandesbank.pdf) | N.A.|
 |Oversea-Chinese Banking Corporation Limited, Singapore  | Bank | 2019-01 | 2022-07-27 | [](/files/Pdf/Register/OCBC.pdf) | N.A.|
 |Philipine National Bank Singapore  | Bank | 2019-01 | 2018-12-26 | [](/files/Pdf/Register/PHILIPPINENATIONALBANK.pdf) | N.A.|
@@ -93,7 +94,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |SPD Bank Singapore Branch  | Bank | 2019-01 | 2018-11-21 | [](/files/Pdf/Register/SPDBank.pdf) | N.A.|
 |Standard Chartered Bank  | Bank | 2019-01 | 2021-12-08 | [](/files/Pdf/Register/FX_CODE_SOC_2021_SCB.pdf) | N.A.|
 |State Street Bank & Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/SSBTC.pdf) | N.A.|
-|Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2018-12-18 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
+|Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2023-03-20 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
 |Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2018-07-09 | [](/files/Pdf/Register/SUMITOMOMITSUITRUSTBANK.pdf) | N.A.|
 |Svenska Handelsbanken AB (Singapore Branch)  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/SvenskaHandelsbanken.pdf) | N.A.|
 |TD Securities  | Bank | 2019-01 | 2022-04-29 | [](/files/Pdf/Register/TD Securities-FX-Global-Code.pdf) | [](/files/Pdf/Dcs/FX Disclosure Cover Sheet (TD Securities).pdf)|
