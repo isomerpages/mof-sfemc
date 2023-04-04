@@ -23,10 +23,10 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 
 <table> 
 	<tbody><tr>
-		<th width="46%" style="text-align: center">Market Participant</th>
+		<th width="40%" style="text-align: center">Market Participant</th>
 		<th width="20%" style="text-align: center">Type</th>
 		<th width="10%" style="text-align: center">Date of Admission</th>
-		<th width="10%" style="text-align: center">Date of Statement</th>
+		<th width="16%" style="text-align: center">Date of Statement</th>
 		<th width="7%" style="text-align: center">Statement of Commitments</th>
 		<th width="7%" style="text-align: center">Disclosure Cover Sheet</th> 
 	</tr>
