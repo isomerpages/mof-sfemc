@@ -18,10 +18,10 @@ description: ""
 		<td>The Institute of Banking and Finance Singapore</td>
 	</tr>
 	<tr>
-		<td width="25%"><img src="/images/logo-mas.png"></td>
-		<td width="25%"><img src="/images/logo-abs.png"></td>
-		<td width="25%"><img src="/images/logo-aci.png"></td>
-		<td width="25%"><img src="/images/logo-ibf.png"></td>
+		<td width="25%"><a href="http://www.mas.gov.sg/"><img alt="mas" src="/images/logo-mas.png"></a></td>
+		<td width="25%"><a href="http://www.abs.org.sg/"><img alt="abs" src="/images/logo-abs.png"></a></td>
+		<td width="25%"><a href="http://www.acisin.com/"><img alt="aci" src="/images/logo-aci.png"></a></td>
+		<td width="25%"><a href="http://www.ibf.org.sg/"><img alt="ibf" src="/images/logo-ibf.png"></a></td>
 
 	</tr>
 </tbody></table>
