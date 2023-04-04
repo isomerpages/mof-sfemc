@@ -31,11 +31,11 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 		<th style="text-align: center">Disclosure Cover Sheet</th> 
 	</tr>
 	<tr>
-		<td>Agricultural Bank of China Limited, Singapore Branch</td>
-		<td>Bank</td>
+		<td>Société Générale SA' s Global Markets Division and Société Générale International Limited</td>
+		<td>Broker or investment adviser</td>
 		<td>2019-05</td>
 		<td>2019-05-14</td>
-		<td><a href="/files/Statement/aboc.pdf"></a></td>
+		<td><a href="/files/Pdf/Register/ABOC.pdf"></a></td>
 		<td>N.A </td> 
 	</tr>
 
