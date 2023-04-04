@@ -5,17 +5,12 @@ description: ""
 ---
 #### Singapore
 
-
-| Monetary Authority of Singapore | The Association of Banks in Singapore | ACI Singapore | The Institute of Banking and Finance Singapore |
-| :--------: | :--------: | :--------: | :--------: |
-| [![mas](/images/logo-mas.png)](http://www.mas.gov.sg/)&nbsp;    | [![abs](/images/logo-abs.png)](http://www.abs.org.sg/)     | [![aci](/images/logo-aci.png)](http://www.acisin.com/)&nbsp;    |  [![ibf](/images/logo-ibf.png)](http://www.ibf.org.sg/) |
-
 <table> 
 <tbody><tr>
-		<th>Monetary Authority of Singapore</th>
-		<th>The Association of Banks in Singapore</th>
-		<th>ACI Singapore</th>
-		<th>The Institute of Banking and Finance Singapore</th>
+		<th style="text-align: center">Monetary Authority of Singapore</th>
+		<th style="text-align: center">The Association of Banks in Singapore</th>
+		<th style="text-align: center">ACI Singapore</th>
+		<th style="text-align: center">The Institute of Banking and Finance Singapore</th>
 	</tr>
 	<tr>
 		<td width="25%"><a href="http://www.mas.gov.sg/"><img alt="mas" src="/images/logo-mas.png"></a></td>
