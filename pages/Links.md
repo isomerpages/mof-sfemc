@@ -12,17 +12,16 @@ description: ""
 
 <table> 
 <tbody><tr>
-		<td>Monetary Authority of Singapore</td>
-		<td>The Association of Banks in Singapore</td>
-		<td>ACI Singapore</td>
-		<td>The Institute of Banking and Finance Singapore</td>
+		<th>Monetary Authority of Singapore</th>
+		<th>The Association of Banks in Singapore</th>
+		<th>ACI Singapore</th>
+		<th>The Institute of Banking and Finance Singapore</th>
 	</tr>
 	<tr>
 		<td width="25%"><a href="http://www.mas.gov.sg/"><img alt="mas" src="/images/logo-mas.png"></a></td>
 		<td width="25%"><a href="http://www.abs.org.sg/"><img alt="abs" src="/images/logo-abs.png"></a></td>
 		<td width="25%"><a href="http://www.acisin.com/"><img alt="aci" src="/images/logo-aci.png"></a></td>
 		<td width="25%"><a href="http://www.ibf.org.sg/"><img alt="ibf" src="/images/logo-ibf.png"></a></td>
-
 	</tr>
 </tbody></table>
 
