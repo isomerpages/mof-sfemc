@@ -62,6 +62,7 @@
 			<date_admission>2019-01</date_admission>
 			<date_signing>2018-06-29</date_signing>
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/Nomura.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/Nomura Liquidity Provider Disclosure Cover Sheet.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>Oversea-Chinese Banking Corporation Limited, Singapore</participant_name>
@@ -392,7 +393,7 @@
 			<participant_name>Sumitomo Mitsui Banking Corporation, Singapore Branch</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2018-12-18</date_signing>
+			<date_signing>2023-03-20</date_signing>
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf</statement_url>
 		</market_participant>
 		<market_participant>
@@ -614,6 +615,13 @@
 			<date_admission>2023-02</date_admission>
 			<date_signing>2023-01-19</date_signing>
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/TPS.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>EIS Global Pte Ltd</participant_name>
+			<participant_type>Non-bank liquidity provider</participant_type>
+			<date_admission>2023-03</date_admission>
+			<date_signing>2023-03-07</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/EISGlobal.pdf</statement_url>
 		</market_participant>
 	</market_participants>
 </local_register>
