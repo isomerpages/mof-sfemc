@@ -21,6 +21,26 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 
 ***
 
+<table> 
+	<tbody><tr>
+		<th style="text-align: center">Market Participant</th>
+		<th style="text-align: center">Type</th>
+		<th style="text-align: center">Date of Admission</th>
+		<th style="text-align: center">Date of Statement</th>
+		<th style="text-align: center">Statement of Commitments</th>
+		<th style="text-align: center">Disclosure Cover Sheet</th> 
+	</tr>
+	<tr>
+		<td>Agricultural Bank of China Limited, Singapore Branch</td>
+		<td>Bank</td>
+		<td>2019-05</td>
+		<td>2019-05-14</td>
+		<td><a href="/files/Statement/aboc.pdf"></a></td>
+		<td>N.A </td> 
+	</tr>
+
+
+</tbody></table>
 
 
 | Market Participant | Type | Date of Admission | Date of Statement     | Statements of Commitment     | Disclosure Cover Sheet     |
@@ -32,7 +52,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Bank of America, N.A., Global Banking and Markets  | Bank | 2019-01 | 2018-04-02 | [](/files/Pdf/Register/BoA.pdf) | N.A.|
 |Bank of Communications Co., Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-28 | [](/files/Pdf/Register/BANKOFCOMMUNICATIONS.pdf) | N.A.|
 |Bank of Taiwan, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/BANKOFTAIWAN.pdf) | N.A.|
-|Bank Pictet & Cie (Asia) Ltd  | Bank | 2019-02 | 2019-01-18 | [](/files/Pdf/Register/Pictet.pdf) | N.A.|
+|Bank Pictet &amp; Cie (Asia) Ltd  | Bank | 2019-02 | 2019-01-18 | [](/files/Pdf/Register/Pictet.pdf) | N.A.|
 |Barclays Bank PLC  | Bank | 2019-01 | 2022-06-30 | [](/files/Pdf/Register/Barclays.pdf) | [](/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf)|
 |BBVA S.A.  | Bank | 2019-01 | 2017-09-15 | [](/files/Pdf/Register/BBVA.pdf) | N.A.|
 |Cathay United Bank  | Bank | 2019-01 | 2018-08-11 | [](/files/Pdf/Register/CATHAYUNITEDBANK.pdf) | N.A.|
@@ -69,7 +89,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |ICICI Bank Limited  | Bank | 2019-01 | 2018-03-21 | [](/files/Pdf/Register/ICICI.pdf) | N.A.|
 |Indian Overseas Bank Singapore  | Bank | 2019-01 | 2018-12-12 | [](/files/Pdf/Register/INDIANOVERSEASBANK.pdf) | N.A.|
 |Intesa Sanpaolo S.p.A  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/IntesaSanpaolo.pdf) | N.A.|
-|JPMorgan Chase & Co.  | Bank | 2019-01 | 2022-07-29 | [](/files/Pdf/Register/JPMorgan.pdf) | N.A.|
+|JPMorgan Chase &amp; Co.  | Bank | 2019-01 | 2022-07-29 | [](/files/Pdf/Register/JPMorgan.pdf) | N.A.|
 |KBC Bank N.V.  | Bank | 2019-01 | 2018-06-18 | [](/files/Pdf/Register/KBCBANKNV.pdf) | N.A.|
 |KGI Securities Singapore Pte. Ltd.  | Broker or investment adviser | 2022-11 | 2022-10-26 | [](/files/Pdf/Register/KGI.pdf) | N.A.|
 |Krung Thai Bank Public Company Limited, Singapore Branch  | Bank | 2019-01 | 2018-09-04 | [](/files/Pdf/Register/KRUNGTHAIBANK.pdf) | N.A.|
@@ -93,7 +113,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Société Générale SA' s Global Markets Division and Société Générale International Limited  | Bank | 2019-01 | 2017-12-29 | [](/files/Pdf/Register/SOCIETEGENERALEGlobalmarkets.pdf) | N.A.|
 |SPD Bank Singapore Branch  | Bank | 2019-01 | 2018-11-21 | [](/files/Pdf/Register/SPDBank.pdf) | N.A.|
 |Standard Chartered Bank  | Bank | 2019-01 | 2021-12-08 | [](/files/Pdf/Register/FX_CODE_SOC_2021_SCB.pdf) | N.A.|
-|State Street Bank & Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/SSBTC.pdf) | N.A.|
+|State Street Bank &amp; Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/SSBTC.pdf) | N.A.|
 |Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2023-03-20 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
 |Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2018-07-09 | [](/files/Pdf/Register/SUMITOMOMITSUITRUSTBANK.pdf) | N.A.|
 |Svenska Handelsbanken AB (Singapore Branch)  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/SvenskaHandelsbanken.pdf) | N.A.|
@@ -104,7 +124,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |The Hokkoku Bank, Ltd. Singapore Branch  | Bank | 2019-01 | 2018-06-29 | [](/files/Pdf/Register/THEHOKKOKUBANK.pdf) | N.A.|
 |The Norinchukin Bank, Singapore Branch  | Bank | 2019-03 | 2019-03-01 | [](/files/Pdf/Register/Norinchukin.pdf) | N.A.|
 |The Northern Trust Company, Global Foreign Exchange Business  | Bank | 2019-01 | 2018-05-15 | [](/files/Pdf/Register/THENORTHERNTRUSTCOMPANY.pdf) | N.A.|
-|The Shanghai Commercial & Savings Bank, Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-10 | [](/files/Pdf/Register/THESHANGHAICOMMERCIALSAVINGSBANK.pdf) | N.A.|
+|The Shanghai Commercial &amp; Savings Bank, Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-10 | [](/files/Pdf/Register/THESHANGHAICOMMERCIALSAVINGSBANK.pdf) | N.A.|
 |Tradition Singapore Pte. Ltd.  | Broker or investment adviser | 2019-01 | 2018-03-02 | [](/files/Pdf/Register/TraditionSingapore.pdf) | N.A.|
 |Tullett Prebon (Singapore) Limited  | Broker or investment adviser | 2023-02 | 2023-01-19 | [](/files/Pdf/Register/TPS.pdf) | N.A.|
 |UBS Investment Bank  | Bank | 2019-01 | 2022-02-17 | [](/files/Pdf/Register/statement_of_commitment_UBS IB.pdf) | [](/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf)|
