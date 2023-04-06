@@ -21,26 +21,6 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 
 ***
 
-<table> 
-	<tbody><tr>
-		<th width="40%" style="text-align: center">Market Participant</th>
-		<th width="20%" style="text-align: center">Type</th>
-		<th width="10%" style="text-align: center">Date of Admission</th>
-		<th width="16%" style="text-align: center">Date of Statement</th>
-		<th width="7%" style="text-align: center">Statement of Commitments</th>
-		<th width="7%" style="text-align: center">Disclosure Cover Sheet</th> 
-	</tr>
-	<tr>
-		<td>Société Générale SA' s Global Markets Division and Société Générale International Limited</td>
-		<td>Broker or investment adviser</td>
-		<td>2019-05</td>
-		<td>2019-05-14</td>
-		<td style="text-align: center"><a href="/files/Pdf/Register/ABOC.pdf"></a></td>
-		<td style="text-align: center">N.A </td> 
-	</tr>
-
-
-</tbody></table>
 
 
 | Market Participant | Type | Date of Admission | Date of Statement     | Statements of Commitment     | Disclosure Cover Sheet     |
