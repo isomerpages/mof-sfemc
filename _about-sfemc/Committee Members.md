@@ -15,7 +15,7 @@ description: ""
 | Stefanie Holtze-Jen     | Deutsche Bank     | 
 | Ruchir Sharma     | Deutsche Bank     | 
 | Boon Peng Ooi     | Eastspring Investments     | 
-| Elizabeth Chau     | GIC     | 
+| Jeffrey Tan     | GIC     | 
 | Vikas Gupta     | JPMorgan     | 
 | Sing Chiong Leong (Co-Chairperson)     | MAS     | 
 | Bernard Wee     | MAS     | 
