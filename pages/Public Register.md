@@ -95,7 +95,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Standard Chartered Bank  | Bank | 2019-01 | 2021-12-08 | [](/files/Pdf/Register/FX_CODE_SOC_2021_SCB.pdf) | N.A.|
 |State Street Bank &amp; Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/SSBTC.pdf) | N.A.|
 |Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2023-03-20 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
-|Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2018-07-09 | [](/files/Pdf/Register/SUMITOMOMITSUITRUSTBANK.pdf) | N.A.|
+|Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2023-06-23 | [](/files/Pdf/Register/sumitomomitsuitrustbankltdsg.pdf) | N.A.|
 |Svenska Handelsbanken AB (Singapore Branch)  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/SvenskaHandelsbanken.pdf) | N.A.|
 |TD Securities  | Bank | 2019-01 | 2022-04-29 | [](/files/Pdf/Register/TD Securities-FX-Global-Code.pdf) | [](/files/Pdf/Dcs/FX Disclosure Cover Sheet (TD Securities).pdf)|
 |TFS Currencies Pte Ltd  | Broker or investment adviser | 2019-02 | 2018-02-27 | [](/files/Pdf/Register/TFSC.pdf) | N.A.|
