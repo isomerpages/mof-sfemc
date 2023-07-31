@@ -3,6 +3,10 @@ title: Statistics
 permalink: /statistics/
 description: ""
 ---
+#### 2023 ####
+[April 2023
+Survey of Singapore FX Volume](/files/Survey/2023-04%20Survey%20FX.xlsx)
+
 #### 2022 ####
 
 [October 2022
