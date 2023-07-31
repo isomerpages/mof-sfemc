@@ -13,7 +13,7 @@ description: ""
 | Chee Kin Lam     | DBS     | 
 | Andrew Ng (Co-Chairperson)     | DBS     | 
 | Stefanie Holtze-Jen     | Deutsche Bank     | 
-| Ruchir Sharma     | Deutsche Bank     | 
+| Ashok Kumar Das     | Deutsche Bank     | 
 | Boon Peng Ooi     | Eastspring Investments     | 
 | Jeffrey Tan     | GIC     | 
 | Vikas Gupta     | JPMorgan     | 
