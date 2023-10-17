@@ -65,16 +65,16 @@ SFEMC Indicative Survey Rates and Anonymised Contributions will also be publishe
 
 | Currency | Code | Description |
 | --- | --- | --- |
-| ALL | SFEMCNDISR=\nn | This is a tile where all the currencies are consolidated into a single view. |
-| CNY | NDISRCNY=\nn | This is a RIC where the CNY Indicative Rate is displayed with the publication date and time. |
-| IDR | NDISRIDR=\nn | This is a RIC where the IDR Indicative Rate is displayed with the publication date and time. |
-| INR | NDISRINR=\nn | This is a RIC where the INR Indicative Rate is displayed with the publication date and time. |
-| KRW | NDISRKRW=\nn | This is a RIC where the KRW Indicative Rate is displayed with the publication date and time. |
-| MYR | NDISRMYR=\nn | This is a RIC where the MYR Indicative Rate is displayed with the publication date and time. |
-| PHP | NDISRPHP=\nn | This is a RIC where the PHP Indicative Rate is displayed with the publication date and time. |
-| TWD | NDISRTWD=\nn | This is a RIC where the TWD Indicative Rate is displayed with the publication date and time. |
+| ALL | SFEMCNDISR=\ | This is a tile where all the currencies are consolidated into a single view. |
+| CNY | NDISRCNY=\ | This is a RIC where the CNY Indicative Rate is displayed with the publication date and time. |
+| IDR | NDISRIDR=\ | This is a RIC where the IDR Indicative Rate is displayed with the publication date and time. |
+| INR | NDISRINR=\ | This is a RIC where the INR Indicative Rate is displayed with the publication date and time. |
+| KRW | NDISRKRW=\ | This is a RIC where the KRW Indicative Rate is displayed with the publication date and time. |
+| MYR | NDISRMYR=\ | This is a RIC where the MYR Indicative Rate is displayed with the publication date and time. |
+| PHP | NDISRPHP=\ | This is a RIC where the PHP Indicative Rate is displayed with the publication date and time. |
+| TWD | NDISRTWD=\ | This is a RIC where the TWD Indicative Rate is displayed with the publication date and time. |
 
-\*\nn refers to the random two (2) digit number assigned to each Participating Bank.
+\*\ refers to the random two (2) digit number assigned to each Participating Bank.
 
 **TEST RUNS**&nbsp;– Indicative Survey Rates
 
@@ -93,20 +93,20 @@ SFEMC Indicative Survey Rates and Anonymised Contributions will also be publishe
 
 | Currency | Code | Description |
 | --- | --- | --- |
-| ALL | TSFEMCNDISR=\nn | This is a tile where all the test currencies are consolidated into a single view. |
-| CNY | TNDISRCNY=\nn | This is a RIC where the test CNY Indicative Rate is displayed with the publication date and time. |
-| IDR | TNDISRIDR=\nn | This is a RIC where the test IDR Indicative Rate is displayed with the publication date and time. |
-| INR | TNDISRINR=\nn | This is a RIC where the test INR Indicative Rate is displayed with the publication date and time. |
-| KRW | TNDISRKRW=\nn | This is a RIC where the test KRW Indicative Rate is displayed with the publication date and time. |
-| MYR | TNDISRMYR=\nn | This is a RIC where the test MYR Indicative Rate is displayed with the publication date and time. |
-| PHP | TNDISRPHP=\nn | This is a RIC where the test PHP Indicative Rate is displayed with the publication date and time. |
-| TWD | TNDISRTWD=\nn | This is a RIC where the test TWD Indicative Rate is displayed with the publication date and time. |
+| ALL | TSFEMCNDISR=\ | This is a tile where all the test currencies are consolidated into a single view. |
+| CNY | TNDISRCNY=\ | This is a RIC where the test CNY Indicative Rate is displayed with the publication date and time. |
+| IDR | TNDISRIDR=\ | This is a RIC where the test IDR Indicative Rate is displayed with the publication date and time. |
+| INR | TNDISRINR=\ | This is a RIC where the test INR Indicative Rate is displayed with the publication date and time. |
+| KRW | TNDISRKRW=\ | This is a RIC where the test KRW Indicative Rate is displayed with the publication date and time. |
+| MYR | TNDISRMYR=\ | This is a RIC where the test MYR Indicative Rate is displayed with the publication date and time. |
+| PHP | TNDISRPHP=\ | This is a RIC where the test PHP Indicative Rate is displayed with the publication date and time. |
+| TWD | TNDISRTWD=\ | This is a RIC where the test TWD Indicative Rate is displayed with the publication date and time. |
 
-\*\nn refers to the random two (2) digit number assigned to each Participating Bank.
+\*\ refers to the random two (2) digit number assigned to each Participating Bank.
 
 ##### Bloomberg Platform (as of January 2022)
 
-Bloomberg Ticker: SFMC "GO"
+Bloomberg Ticker: SFMC \
 
 ##### DISCLAIMERS:  
 
