@@ -19,7 +19,6 @@ description: ""
 | Vikas Gupta     | JPMorgan     | 
 | Sing Chiong Leong (Co-Chairperson)     | MAS     | 
 | Bernard Wee     | MAS     | 
-| Yeow Kwang Guan     | Mizuho Corporate Bank     | 
 | May Ling Tan     | OCBC     | 
 | Kenneth Lai     | OCBC     | 
 | Daniel Koh     | Standard Chartered Bank     | 
