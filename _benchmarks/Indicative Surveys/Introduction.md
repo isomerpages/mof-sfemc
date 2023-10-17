@@ -15,7 +15,7 @@ The SFEMC currently sponsors the following indicative survey rate methodologies 
 *   [SFEMC INR Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20INR%20Indicative%20Survey%20Methodology.pdf)
 *   [SFEMC KRW Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20KRW%20Indicative%20Survey%20Methodology.pdf)
 *   [SFEMC MYR Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20MYR%20Indicative%20Survey%20Methodology.pdf)
-*   [SFEMC PHP Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20PHP%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC PHP Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20php%20indicative%20survey%20methodology.pdf)
 *   [SFEMC TWD Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20TWD%20Indicative%20Survey%20Methodology.pdf)
 *   [SFEMC Indicative Survey Best Practice Guide](/files/Indicative%20Survey/Intro/2022-04%20SFEMC%20Indicative%20Survey%20Best%20Practice%20Guide.pdf)
 
@@ -65,16 +65,16 @@ SFEMC Indicative Survey Rates and Anonymised Contributions will also be publishe
 
 | Currency | Code | Description |
 | --- | --- | --- |
-| ALL | SFEMCNDISR=\<nn\> | This is a tile where all the currencies are consolidated into a single view. |
-| CNY | NDISRCNY=\<nn\> | This is a RIC where the CNY Indicative Rate is displayed with the publication date and time. |
-| IDR | NDISRIDR=\<nn\> | This is a RIC where the IDR Indicative Rate is displayed with the publication date and time. |
-| INR | NDISRINR=\<nn\> | This is a RIC where the INR Indicative Rate is displayed with the publication date and time. |
-| KRW | NDISRKRW=\<nn\> | This is a RIC where the KRW Indicative Rate is displayed with the publication date and time. |
-| MYR | NDISRMYR=\<nn\> | This is a RIC where the MYR Indicative Rate is displayed with the publication date and time. |
-| PHP | NDISRPHP=\<nn\> | This is a RIC where the PHP Indicative Rate is displayed with the publication date and time. |
-| TWD | NDISRTWD=\<nn\> | This is a RIC where the TWD Indicative Rate is displayed with the publication date and time. |
+| ALL | SFEMCNDISR=\ | This is a tile where all the currencies are consolidated into a single view. |
+| CNY | NDISRCNY=\ | This is a RIC where the CNY Indicative Rate is displayed with the publication date and time. |
+| IDR | NDISRIDR=\ | This is a RIC where the IDR Indicative Rate is displayed with the publication date and time. |
+| INR | NDISRINR=\ | This is a RIC where the INR Indicative Rate is displayed with the publication date and time. |
+| KRW | NDISRKRW=\ | This is a RIC where the KRW Indicative Rate is displayed with the publication date and time. |
+| MYR | NDISRMYR=\ | This is a RIC where the MYR Indicative Rate is displayed with the publication date and time. |
+| PHP | NDISRPHP=\ | This is a RIC where the PHP Indicative Rate is displayed with the publication date and time. |
+| TWD | NDISRTWD=\ | This is a RIC where the TWD Indicative Rate is displayed with the publication date and time. |
 
-\*\<NN\> refers to the random two (2) digit number assigned to each Participating Bank.
+\*\ refers to the random two (2) digit number assigned to each Participating Bank.
 
 **TEST RUNS**&nbsp;– Indicative Survey Rates
 
@@ -93,20 +93,20 @@ SFEMC Indicative Survey Rates and Anonymised Contributions will also be publishe
 
 | Currency | Code | Description |
 | --- | --- | --- |
-| ALL | TSFEMCNDISR=\<nn\> | This is a tile where all the test currencies are consolidated into a single view. |
-| CNY | TNDISRCNY=\<nn\> | This is a RIC where the test CNY Indicative Rate is displayed with the publication date and time. |
-| IDR | TNDISRIDR=\<nn\> | This is a RIC where the test IDR Indicative Rate is displayed with the publication date and time. |
-| INR | TNDISRINR=\<nn\> | This is a RIC where the test INR Indicative Rate is displayed with the publication date and time. |
-| KRW | TNDISRKRW=\<nn\> | This is a RIC where the test KRW Indicative Rate is displayed with the publication date and time. |
-| MYR | TNDISRMYR=\<nn\> | This is a RIC where the test MYR Indicative Rate is displayed with the publication date and time. |
-| PHP | TNDISRPHP=\<nn\> | This is a RIC where the test PHP Indicative Rate is displayed with the publication date and time. |
-| TWD | TNDISRTWD=\<nn\> | This is a RIC where the test TWD Indicative Rate is displayed with the publication date and time. |
+| ALL | TSFEMCNDISR=\ | This is a tile where all the test currencies are consolidated into a single view. |
+| CNY | TNDISRCNY=\ | This is a RIC where the test CNY Indicative Rate is displayed with the publication date and time. |
+| IDR | TNDISRIDR=\ | This is a RIC where the test IDR Indicative Rate is displayed with the publication date and time. |
+| INR | TNDISRINR=\ | This is a RIC where the test INR Indicative Rate is displayed with the publication date and time. |
+| KRW | TNDISRKRW=\ | This is a RIC where the test KRW Indicative Rate is displayed with the publication date and time. |
+| MYR | TNDISRMYR=\ | This is a RIC where the test MYR Indicative Rate is displayed with the publication date and time. |
+| PHP | TNDISRPHP=\ | This is a RIC where the test PHP Indicative Rate is displayed with the publication date and time. |
+| TWD | TNDISRTWD=\ | This is a RIC where the test TWD Indicative Rate is displayed with the publication date and time. |
 
-\*\<NN\> refers to the random two (2) digit number assigned to each Participating Bank.
+\*\ refers to the random two (2) digit number assigned to each Participating Bank.
 
 ##### Bloomberg Platform (as of January 2022)
 
-Bloomberg Ticker: SFMC \<GO\> 
+Bloomberg Ticker: SFMC \ 
 
 ##### DISCLAIMERS:  
 
@@ -114,7 +114,7 @@ _The Template Terms for non-deliverable forwards for various currency pairs publ
 
 _SFEMC disclaims liability for any use made of any of the Template Terms by any market participant, and no representation or warranty, express or implied, is made concerning the terms, their enforceability or suitability for use in connection with any particular transaction. Market participants are advised to consult their own legal and other experts and to make their own determinations regarding these matters._
 
-_In the event that SFEMC (itself or through a service provider) wishes to determine an Indicative Survey Rate for a relevant currency, financial institutions that are active participants in the relevant currency pair and included in the [List of Participating Banks](/files/Indicative%20Survey/Intro/2022-04-01%20SFEMC%20Indicative%20Survey%20List%20of%20Participating%20Banks.pdf) will be surveyed in accordance with the relevant Indicative Survey Rate Methodology (as updated, revised or supplemented from time to time). SFEMC (or its service provider) shall use all reasonable efforts to conduct the survey. However, the above financial institutions are under no legal or contractual obligation to respond to the survey. As such, SFEMC provides no assurance whatsoever that the Indicative Survey Rate Methodology will result in an indicative survey rate being determined._
+_In the event that SFEMC (itself or through a service provider) wishes to determine an Indicative Survey Rate for a relevant currency, financial institutions that are active participants in the relevant currency pair and included in the [List of Participating Banks](/files/Indicative%20Survey/Intro/2023-10%20sfemc%20indicative%20survey%20list%20of%20participating%20banks.pdf) will be surveyed in accordance with the relevant Indicative Survey Rate Methodology (as updated, revised or supplemented from time to time). SFEMC (or its service provider) shall use all reasonable efforts to conduct the survey. However, the above financial institutions are under no legal or contractual obligation to respond to the survey. As such, SFEMC provides no assurance whatsoever that the Indicative Survey Rate Methodology will result in an indicative survey rate being determined._
 
 _SFEMC (and any service provider SFEMC may select) disclaims liability for each and every Indicative Survey Rate Methodology and all rates, results or responses (if any) produced by such Indicative Survey Rate Methodology, and no representation or warranty, express or implied, is made concerning any Indicative Survey Rate (including, without limitation, the methodology for determining the relevant Indicative Survey Rate) and its suitability for any particular use._
 
