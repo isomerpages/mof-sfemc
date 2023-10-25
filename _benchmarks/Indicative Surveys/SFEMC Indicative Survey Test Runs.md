@@ -4,6 +4,10 @@ permalink: /benchmarks/indicative-surveys/test-runs/
 description: ""
 third_nav_title: Indicative Surveys
 ---
+##### 2023 #####
+*   [24 October 2023: SFEMC CNY Indicative Survey](/files/Indicative%20Survey/Test%20Runs/24%20oct%202023%20(test%20run)%20-%20sfemc%20cny%20indicative%20survey.pdf)
+*   24 October 2023: No SFEMC INR Indicative Survey Rate was published today, due to a pre-scheduled holiday in India. SFEMC Indicative Survey Rates are published only on calendar days that would have been a Business Day but for an Unscheduled Holiday in the onshore financial centre.
+
 ##### 2022 #####
 *   28 Jan 2022: SFEMC TWD Indicative Survey discontinued as onshore price source is available for the determination of a settlement rate. No TWD Indicative Survey Rate published.
 *   28 Jan 2022: SFEMC IDR Indicative Survey discontinued as onshore price source is available for the determination of a settlement rate. No IDR Indicative Survey Rate published.
