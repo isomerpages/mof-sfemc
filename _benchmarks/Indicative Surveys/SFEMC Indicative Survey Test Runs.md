@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Indicative Surveys
 ---
 ##### 2023 #####
-*   [25 October 2023: SFEMC CNY Indicative Survey](https://github.com/isomerpages/mas-sfemc/blob/staging/files/Indicative%20Survey/Test%20Runs/25%20oct%202023%20(test%20run)%20-%20sfemc%20cny%20indicative%20survey.pdf)
+*   [25 October 2023: SFEMC CNY Indicative Survey](/files/Indicative%20Survey/Test%20Runs/25%20oct%202023%20(test%20run)%20-%20sfemc%20cny%20indicative%20survey.pdf)
 *   [25 October 2023: SFEMC INR Indicative Survey](/files/Indicative%20Survey/Test%20Runs/25%20oct%202023%20(test%20run)%20-%20sfemc%20inr%20indicative%20survey.pdf)
 *   [24 October 2023: SFEMC CNY Indicative Survey](/files/Indicative%20Survey/Test%20Runs/24%20oct%202023%20(test%20run)%20-%20sfemc%20cny%20indicative%20survey.pdf)
 *   24 October 2023: No SFEMC INR Indicative Survey Rate was published today, due to a pre-scheduled holiday in India. SFEMC Indicative Survey Rates are published only on calendar days that would have been a Business Day but for an Unscheduled Holiday in the onshore financial centre.
