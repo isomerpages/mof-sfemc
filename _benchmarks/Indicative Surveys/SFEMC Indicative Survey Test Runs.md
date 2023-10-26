@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Indicative Surveys
 ---
 ##### 2023 #####
+*   27 October 2023: SFEMC CNY Indicative Survey discontinued as onshore price source is available for the determination of a settlement rate. No CNY Indicative Survey Rate is published.
+*   27 October 2023: SFEMC INR Indicative Survey discontinued as onshore price source is available for the determination of a settlement rate. No INR Indicative Survey Rate is published.
+*   [26 October 2023: SFEMC CNY Indicative Survey](/files/Indicative%20Survey/Test%20Runs/26%20oct%202023%20(test%20run)%20-%20sfemc%20cny%20indicative%20survey.pdf)
+*   [26 October 2023: SFEMC INR Indicative Survey](/files/Indicative%20Survey/Test%20Runs/26%20oct%202023%20(test%20run)%20-%20sfemc%20inr%20indicative%20survey.pdf)
 *   [25 October 2023: SFEMC CNY Indicative Survey](/files/Indicative%20Survey/Test%20Runs/25%20oct%202023%20(test%20run)%20-%20sfemc%20cny%20indicative%20survey.pdf)
 *   [25 October 2023: SFEMC INR Indicative Survey](/files/Indicative%20Survey/Test%20Runs/25%20oct%202023%20(test%20run)%20-%20sfemc%20inr%20indicative%20survey.pdf)
 *   [24 October 2023: SFEMC CNY Indicative Survey](/files/Indicative%20Survey/Test%20Runs/24%20oct%202023%20(test%20run)%20-%20sfemc%20cny%20indicative%20survey.pdf)
