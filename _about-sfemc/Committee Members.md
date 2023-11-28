@@ -2,6 +2,7 @@
 title: Committee Members
 permalink: /sfemc-committee-members/
 description: ""
+variant: markdown
 ---
 | Name | Company | 
 | -------- | -------- |
@@ -10,19 +11,22 @@ description: ""
 | Mikko Rusi     | BNP Paribas     | 
 | Nathan Venkat Swami     | Citi     | 
 | David Dredge     | Convex Strategies     | 
-| Chee Kin Lam     | DBS     | 
+| Lam Chee Kin     | DBS     | 
 | Andrew Ng (Co-Chairperson)     | DBS     | 
 | Stefanie Holtze-Jen     | Deutsche Bank     | 
 | Ashok Kumar Das     | Deutsche Bank     | 
-| Boon Peng Ooi     | Eastspring Investments     | 
+| Kenneth Kan    | Dymon Asia     | 
 | Jeffrey Tan     | GIC     | 
 | Vikas Gupta     | JPMorgan     | 
-| Sing Chiong Leong (Co-Chairperson)     | MAS     | 
+| Rohit Verma   | LCH     | 
+| Tom Freeman   | Macquarie     | 
+| Leong Sing Chiong (Co-Chairperson)     | MAS     | 
 | Bernard Wee     | MAS     | 
-| May Ling Tan     | OCBC     | 
+| Leng Hoe Lon     | Nomura     | 
+| Tan May Ling     | OCBC     | 
 | Kenneth Lai     | OCBC     | 
 | Daniel Koh     | Standard Chartered Bank     | 
 | Anthony John Hall     | Standard Chartered Bank     | 
-| Marc Bonnici     | Tullett Prebon Singapore     | 
-| Eric Li     | UBS AG     | 
+| Marc Bonnici     | Tullett Prebon     | 
+| Eric Li     (Deputy Co-Chairperson)| UBS AG     | 
 | Leslie Foo     | UOB     |
