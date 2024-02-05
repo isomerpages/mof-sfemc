@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2023 ####
 [October 2023
-Survey of Singapore FX Volume](/files/Survey/2023_10_Survey_FX.pdf)
+Survey of Singapore FX Volume](/files/Survey/2023-10%20Survey%20FX.xlsx)
 
 [April 2023
 Survey of Singapore FX Volume](/files/Survey/2023-04%20Survey%20FX.xlsx)
