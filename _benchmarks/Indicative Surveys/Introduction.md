@@ -3,6 +3,7 @@ title: Introduction
 permalink: /benchmarks/indicative-surveys/introduction/
 description: ""
 third_nav_title: Indicative Surveys
+variant: markdown
 ---
 ##### Introduction
 
@@ -10,7 +11,7 @@ The template terms for non-deliverable forwards for certain currencies published
 
 The SFEMC currently sponsors the following indicative survey rate methodologies (each an “**Indicative Survey Rate Methodology**”) to calculate such fallback reference prices:
 
-*   [SFEMC CNY Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20CNY%20Indicative%20Survey%20Methodology.pdf)
+*   [SFEMC CNY Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2024_04_CNY_Indicative_Survey_Methodology.pdf)
 *   [SFEMC IDR Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20IDR%20Indicative%20Survey%20Methodology.pdf)
 *   [SFEMC INR Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20INR%20Indicative%20Survey%20Methodology.pdf)
 *   [SFEMC KRW Indicative Survey Rate Methodology](/files/Indicative%20Survey/Intro/2022-04%20KRW%20Indicative%20Survey%20Methodology.pdf)
