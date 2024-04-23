@@ -2,6 +2,7 @@
 title: Public Register
 permalink: /public-register/
 description: ""
+variant: markdown
 ---
 ##### FX Global Code - Statement of Commitment
 The FX Global Code is a set of global principles of good practice in the foreign exchange market, developed to provide a common set of guidelines to promote the integrity and effective functioning of the wholesale FX market. It was developed by a partnership between central banks and market participants from 16 jurisdictions around the globe.
@@ -26,7 +27,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 | Market Participant | Type | Date of Admission | Date of Statement     | Statements of Commitment     | Disclosure Cover Sheet     |
 | -------- | -------- | -------- |  -------- | -------- | -------- |
 |Agricultural Bank of China Limited, Singapore Branch  | Bank | 2019-05 | 2019-05-14 | [](/files/Pdf/Register/ABOC.pdf) | N.A.|
-|Australia and New Zealand Banking Group Limited  | Bank | 2019-01 | 2022-05-20 | [](/files/Pdf/Register/ANZ.pdf) | N.A.|
+|Australia and New Zealand Banking Group Limited  | Bank | 2019-01 | 2022-05-20 | [](/files/Pdf/Register/ANZ.pdf) | [](/files/Pdf/Dcs/ANZ_liquidity_provider_disclosure_sheet.pdf)|
 |Bangkok Bank Public Company Limited, Singapore Branch  | Bank | 2019-01 | 2018-11-30 | [](/files/Pdf/Register/BangkokBank.pdf) | N.A.|
 |Bank of America Singapore Limited  | Bank | 2019-01 | 2022-06-22 | [](/files/Pdf/Register/BANKOFAMERICASINGAPORE.pdf) | [](/files/Pdf/Dcs/Bank of America Singapore - Disclosure Sheet.pdf)|
 |Bank of America, N.A., Global Banking and Markets  | Bank | 2019-01 | 2018-04-02 | [](/files/Pdf/Register/BoA.pdf) | N.A.|
