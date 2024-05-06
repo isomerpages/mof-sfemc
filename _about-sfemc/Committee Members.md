@@ -11,10 +11,12 @@ variant: markdown
 | Mikko Rusi     | BNP Paribas     | 
 | Nathan Venkat Swami     | Citi     | 
 | David Dredge     | Convex Strategies     | 
-| Lam Chee Kin     | DBS     | 
 | Andrew Ng (Co-Chairperson)     | DBS     | 
-| Stefanie Holtze-Jen     | Deutsche Bank     | 
+| Lam Chee Kin     | DBS     | 
+| Tai Man Fung Jacky    | DBS    | 
+| Akash Mohapatra     | Deutsche Bank     | 
 | Ashok Kumar Das     | Deutsche Bank     | 
+| Stefanie Holtze-Jen     | Deutsche Bank     | 
 | Kenneth Kan    | Dymon Asia     | 
 | Jeffrey Tan     | GIC     | 
 | Vikas Gupta     | JPMorgan     | 
@@ -23,10 +25,10 @@ variant: markdown
 | Leong Sing Chiong (Co-Chairperson)     | MAS     | 
 | Bernard Wee     | MAS     | 
 | Leng Hoe Lon     | Nomura     | 
-| Tan May Ling     | OCBC     | 
 | Kenneth Lai     | OCBC     | 
-| Daniel Koh     | Standard Chartered Bank     | 
+| Tan May Ling     | OCBC     | 
 | Anthony John Hall     | Standard Chartered Bank     | 
+| Daniel Koh     | Standard Chartered Bank    | 
 | Marc Bonnici     | Tullett Prebon     | 
 | Eric Li     (Deputy Co-Chairperson)| UBS AG     | 
-| Leslie Foo     | UOB     |
+| Kelvin Ng   | UOB     |
