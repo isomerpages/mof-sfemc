@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<local_register>
-	<local_register_name>SFEMC</local_register_name>
+<local_register_name>SFEMC</local_register_name>
 	<local_register_url>https://www.sfemc.org/public-register.html</local_register_url>
 	<market_participants>
 		<market_participant>
@@ -86,7 +85,7 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/TraditionSingapore.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>United Overseas Bank Limited Ã¢â‚¬â€œ UOB Singapore</participant_name>
+			<participant_name>United Overseas Bank Limited â€“ UOB Singapore</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2022-07-22</date_signing>
@@ -148,7 +147,6 @@
 			<date_admission>2019-01</date_admission>
 			<date_signing>2022-05-20</date_signing>
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/ANZ.pdf</statement_url>
-			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/ANZ_liquidity_provider_disclosure_sheet.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>Maybank Singapore Limited</participant_name>
@@ -257,7 +255,7 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/CreditAgricole.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>CrÃƒÂ©dit Industriel et Commercial, Singapore Branch</participant_name>
+			<participant_name>CrÃ©dit Industriel et Commercial, Singapore Branch</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2022-04-27</date_signing>
@@ -384,7 +382,7 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/RESONAMERCHANTBANKASIA.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>SociÃƒÂ©tÃƒÂ© GÃƒÂ©nÃƒÂ©rale SA' s Global Markets Division and SociÃƒÂ©tÃƒÂ© GÃƒÂ©nÃƒÂ©rale International Limited</participant_name>
+			<participant_name>SociÃ©tÃ© GÃ©nÃ©rale SA' s Global Markets Division and SociÃ©tÃ© GÃ©nÃ©rale International Limited</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2017-12-29</date_signing>
@@ -440,7 +438,7 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/THESHANGHAICOMMERCIALSAVINGSBANK.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>Union Bancaire PrivÃƒÂ©e, UBP SA, Singapore Branch</participant_name>
+			<participant_name>Union Bancaire PrivÃ©e, UBP SA, Singapore Branch</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2018-12-05</date_signing>
@@ -526,7 +524,7 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/TFSC.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>LBBW-Landesbank Baden-WÃƒÂ¼rttemberg, Singapore branch</participant_name>
+			<participant_name>LBBW-Landesbank Baden-WÃ¼rttemberg, Singapore branch</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-03</date_admission>
 			<date_signing>2018-12-05</date_signing>
