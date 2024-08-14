@@ -47,7 +47,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Convex Strategies Pte Ltd  | Asset manager | 2022-07 | 2022-07-21 | [](/files/Pdf/Register/ConvexStrategies.pdf) | N.A.|
 |Credit Agricole Corporate and Investment Bank  | Bank | 2019-01 | 2018-04-12 | [](/files/Pdf/Register/CreditAgricole.pdf) | N.A.|
 |Crédit Industriel et Commercial, Singapore Branch  | Bank | 2019-01 | 2022-04-27 | [](/files/Pdf/Register/statement_of_commitment (CIC).pdf) | N.A.|
-|Credit Suisse Group  | Bank | 2019-01 | 2022-12-20 | [](/files/Pdf/Register/CREDITSUISSEGroup.pdf) | [](/files/Pdf/Dcs/CreditSuisse_liquidity_provider_disclosure_cover_sheet.pdf)|
+|Credit Suisse Group  | Bank | 2019-01 | 2022-12-20 | [](/files/Pdf/Register/CREDITSUISSEGroup.pdf) | N.A.|
 |CSOP Asset Management Pte. Ltd.  | Asset manager | 2022-10 | 2022-10-17 | [](/files/Pdf/Register/CSOP.pdf) | N.A.|
 |DBS Bank Ltd.  | Bank | 2019-01 | 2022-06-15 | [](/files/Pdf/Register/DBS.pdf) | [](/files/Pdf/Dcs/DBS_Disclosure_Cover_Sheet.pdf)|
 |Deutsche Bank AG  | Bank | 2019-01 | 2022-09-21 | [](/files/Pdf/Register/DEUTSCHEBANK.pdf) | N.A.|
