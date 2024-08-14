@@ -1,0 +1,10 @@
+collections:
+  benchmarks:
+    output: true
+    order:
+      - Financial Benchmarks.md
+      - Indicative Surveys/.keep
+      - Indicative Surveys/Introduction.md
+      - Indicative Surveys/Past Press Releases.md
+      - Indicative Surveys/Related NDF Templates and Documentation.md
+      - Indicative Surveys/SFEMC Indicative Survey Test Runs.md

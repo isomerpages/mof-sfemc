@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<local_register>
+	<local_register_name>SFEMC</local_register_name>
+	<local_register_url>https://www.sfemc.org/public-register.html</local_register_url>
+	<market_participants>
+		<market_participant>
+			<participant_name>Barclays Bank PLC</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-06-30</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Barclays.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Citi Institutional Clients Group Global FX</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-07-14</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Citi.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/Citi_Disclosure_Cover_Sheet.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Credit Suisse Group</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-12-20</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CREDITSUISSEGroup.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>DBS Bank Ltd.</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-06-15</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/DBS.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/DBS_Disclosure_Cover_Sheet.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Deutsche Bank AG</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-09-21</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/DEUTSCHEBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>JPMorgan Chase &amp; Co.</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-07-29</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/JPMorgan.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Mizuho Bank, Ltd. (Singapore Branch)</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-10-12</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Mizuho.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Nomura, Global Markets Foreign Exchange Division</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-06-29</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Nomura.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/Nomura Liquidity Provider Disclosure Cover Sheet.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Oversea-Chinese Banking Corporation Limited, Singapore</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-07-27</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/OCBC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Standard Chartered Bank</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2021-12-08</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/FX_CODE_SOC_2021_SCB.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Tradition Singapore Pte. Ltd.</participant_name>
+			<participant_type>Broker or investment adviser</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-03-02</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/TraditionSingapore.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>United Overseas Bank Limited Ã¢â‚¬â€œ UOB Singapore</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-07-22</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/UOB.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>UBS Investment Bank</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-02-17</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/statement_of_commitment_UBS IB.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>City Financial Investment Company Pte Ltd</participant_name>
+			<participant_type>Asset manager</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-01-23</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CityFinancial.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Eastspring Investments (Singapore) Limited</participant_name>
+			<participant_type>Asset manager</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2023-01-31</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/EastSpring.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>GIC Private Limited</participant_name>
+			<participant_type>Sovereign wealth fund</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-08-02</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/GIC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Graticule Asset Management Asia, L.P.</participant_name>
+			<participant_type>Asset manager</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-04-30</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Graticule.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Bank of America, ., Global Banking and Markets</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-04-02</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BoA.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>The FX activity of BNP Paribas Global Markets</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-05-06</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BNPP.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Australia and New Zealand Banking Group Limited</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-05-20</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ANZ.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/ANZ_liquidity_provider_disclosure_sheet.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Maybank Singapore Limited</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-11-08</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/MayBank.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Malayan Banking Berhad, Singapore</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-11-08</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/MalayanBanking.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>HSBC Holdings plc</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-06-30</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/HSBC.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/HSBC_Liquidity_Provider_Disclosure_Cover_Sheet_June_2024.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Monetary Authority of Singapore</participant_name>
+			<participant_type>Central bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-08-31</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/MAS.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Bangkok Bank Public Company Limited, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-11-30</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BangkokBank.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Bank of Communications Co., Ltd., Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-28</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BANKOFCOMMUNICATIONS.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Bank of Taiwan, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-10-19</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BANKOFTAIWAN.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>BBVA S.A.</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2017-09-15</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BBVA.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Cathay United Bank</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-08-11</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CATHAYUNITEDBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Chang Hwa Commercial Bank Ltd.</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-08-20</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CHANGHWABANKLtd.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>China CITIC Bank International Limited, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2019-01-16</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CITICBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>China Construction Bank Corporation, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-31</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ChinaConstructionBank.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>China Merchants Bank Co. Ltd., Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-09-07</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ChinaMerchantsBank.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>CIBC Capital Markets</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-06-29</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CIBCCAPITALMARKETS.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Credit Agricole Corporate and Investment Bank</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-04-12</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CreditAgricole.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>CrÃƒÂ©dit Industriel et Commercial, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-04-27</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/statement_of_commitment (CIC).pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>DNB Bank ASA</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-07-03</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/DNBBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>E.SUN Bank, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-09-10</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ESUNBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>First Commercial Bank, Ltd.</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-20</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/FIRSTCOMMERCIALBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>HL Bank</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-21</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/HLBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>ICBC Standard Bank, PLC, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-05-19</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ICBC Standard Bank Singapore Branch_SOC to the FX Global Code_2022.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>ICICI Bank Limited</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-03-21</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ICICI.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Indian Overseas Bank Singapore</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-12</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/INDIANOVERSEASBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Intesa Sanpaolo S.p.A</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-21</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/IntesaSanpaolo.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>KBC Bank N.V.</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-06-18</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/KBCBANKNV.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Krung Thai Bank Public Company Limited, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-09-04</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/KRUNGTHAIBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>National Australia Bank Limited</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2017-06-16</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/NATIONALAUSTRALIABANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>National Bank of Kuwait SAKP, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-10-19</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/NATIONALBANKOFKUWAIT.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>NatWest Markets Plc</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-06-07</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/NATWESTMARKETS.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/liquidity-provider-disclosure-cover-sheet (Natwest).pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Norddeutsche Landesbank - Girozentrale</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-05</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/NorddeutscheLandesbank.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Philipine National Bank Singapore</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-26</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/PHILIPPINENATIONALBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>RBC Wealth Management</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-11-30</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/RBCWEALTHMANAGEMENT.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Resona Merchant Bank Asia Limited</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-10-30</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/RESONAMERCHANTBANKASIA.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>SociÃƒÂ©tÃƒÂ© GÃƒÂ©nÃƒÂ©rale SA' s Global Markets Division and SociÃƒÂ©tÃƒÂ© GÃƒÂ©nÃƒÂ©rale International Limited</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2017-12-29</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/SOCIETEGENERALEGlobalmarkets.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Sumitomo Mitsui Banking Corporation, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2023-03-20</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Sumitomo Mitsui Trust Bank, Limited (SG Br)</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2023-06-23</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/sumitomomitsuitrustbankltdsg.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Svenska Handelsbanken AB (Singapore Branch)</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-08-20</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/SvenskaHandelsbanken.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>The Bank of East Asia, Limited (Singapore Branch)</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-31</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/TheBankofEastAsia.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>The Hokkoku Bank, Ltd. Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-06-29</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/THEHOKKOKUBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>The Northern Trust Company, Global Foreign Exchange Business</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-05-15</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/THENORTHERNTRUSTCOMPANY.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>The Shanghai Commercial &amp; Savings Bank, Ltd., Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-10</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/THESHANGHAICOMMERCIALSAVINGSBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Union Bancaire PrivÃƒÂ©e, UBP SA, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-05</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/UnionBancairePrivee.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>VP Bank Ltd, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-12-21</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/VPBANK.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Westpac Banking Corporation</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-08-11</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/WESTPACBANKINGCORPORATION.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Bank of America Singapore Limited</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-06-22</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BANKOFAMERICASINGAPORE.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/Bank of America Singapore - Disclosure Sheet.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>TD Securities</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-04-29</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/TD Securities-FX-Global-Code.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/FX Disclosure Cover Sheet (TD Securities).pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>SPD Bank Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2018-11-21</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/SPDBank.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>MUFG Bank, Ltd.</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-01</date_admission>
+			<date_signing>2022-06-17</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/MUFG.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>CSOP Asset Management Pte. Ltd.</participant_name>
+			<participant_type>Asset manager</participant_type>
+			<date_admission>2022-10</date_admission>
+			<date_signing>2022-10-17</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/CSOP.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Edgewater Markets</participant_name>
+			<participant_type>E-trading platform</participant_type>
+			<date_admission>2022-09</date_admission>
+			<date_signing>2022-09-29</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Edgewater.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>EBS part of CME Group</participant_name>
+			<participant_type>E-trading platform</participant_type>
+			<date_admission>2019-02</date_admission>
+			<date_signing>2022-06-10</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/EBS.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Bank Pictet &amp; Cie (Asia) Ltd</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-02</date_admission>
+			<date_signing>2019-01-18</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Pictet.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>TFS Currencies Pte Ltd</participant_name>
+			<participant_type>Broker or investment adviser</participant_type>
+			<date_admission>2019-02</date_admission>
+			<date_signing>2018-02-27</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/TFSC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>LBBW-Landesbank Baden-WÃƒÂ¼rttemberg, Singapore branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-03</date_admission>
+			<date_signing>2018-12-05</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/LBBW.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>The Norinchukin Bank, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-03</date_admission>
+			<date_signing>2019-03-01</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Norinchukin.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Agricultural Bank of China Limited, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-05</date_admission>
+			<date_signing>2019-05-14</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ABOC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Euronext Markets Singapore Pte Ltd.</participant_name>
+			<participant_type>E-trading platform</participant_type>
+			<date_admission>2019-10</date_admission>
+			<date_signing>2022-09-13</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Euronext.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Register/Euronext_Disclosure_Cover_Sheet.pdf</disclosure_sheet_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>EFG Bank AG, Singapore Branch</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2021-08</date_admission>
+			<date_signing>2022-09-22</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Statement of Commitment (EFG Bank AG SG Branch).pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>SGX FX Markets Pte. Ltd.</participant_name>
+			<participant_type>E-trading platform</participant_type>
+			<date_admission>2021-11</date_admission>
+			<date_signing>2021-11-08</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/SGX FX Markets SOC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Convex Strategies Pte Ltd</participant_name>
+			<participant_type>Asset manager</participant_type>
+			<date_admission>2022-07</date_admission>
+			<date_signing>2022-07-21</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ConvexStrategies.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Skandinaviska Enskilda Banken AB</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2022-09</date_admission>
+			<date_signing>2022-03-24</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/SEB.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>State Street Bank &amp; Trust Company</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2022-09</date_admission>
+			<date_signing>2022-07-01</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/SSBTC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>KGI Securities Singapore Pte. Ltd.</participant_name>
+			<participant_type>Broker or investment adviser</participant_type>
+			<date_admission>2022-11</date_admission>
+			<date_signing>2022-10-26</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/KGI.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>DZ Bank AG</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2023-01</date_admission>
+			<date_signing>2022-05-10</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/DZBank.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>ICAP (Singapore) Pte Ltd</participant_name>
+			<participant_type>Broker or investment adviser</participant_type>
+			<date_admission>2023-02</date_admission>
+			<date_signing>2023-01-19</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/ICAP.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Tullett Prebon (Singapore) Limited</participant_name>
+			<participant_type>Broker or investment adviser</participant_type>
+			<date_admission>2023-02</date_admission>
+			<date_signing>2023-01-19</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/TPS.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>EIS Global Pte Ltd</participant_name>
+			<participant_type>Non-bank liquidity provider</participant_type>
+			<date_admission>2023-03</date_admission>
+			<date_signing>2023-03-07</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/EISGlobal.pdf</statement_url>
+		</market_participant>
+	</market_participants>
+</local_register>

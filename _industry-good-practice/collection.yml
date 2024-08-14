@@ -1,0 +1,7 @@
+collections:
+  industry-good-practice:
+    output: true
+    order:
+      - Blue Book.md
+      - Global Preamble.md
+      - FX Global Code.md
