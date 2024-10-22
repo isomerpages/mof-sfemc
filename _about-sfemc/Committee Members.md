@@ -9,7 +9,7 @@ variant: markdown
 | Yun Zhang     | Barclays     | 
 | Patrick Leung     | BlackRock     | 
 | Mikko Rusi     | BNP Paribas     | 
-| Nathan Venkat Swami     | Citi     | 
+| Nathan Venkat Swami     | Citibank     | 
 | David Dredge     | Convex Strategies     | 
 | Andrew Ng (Co-Chairperson)     | DBS     | 
 | Lam Chee Kin     | DBS     | 
@@ -27,8 +27,8 @@ variant: markdown
 | Leng Hoe Lon     | Nomura     | 
 | Kenneth Lai     | OCBC     | 
 | Tan May Ling     | OCBC     | 
+| Daniel Koh     | SGX   | 
 | Anthony John Hall     | Standard Chartered Bank     | 
-| Daniel Koh     | Standard Chartered Bank    | 
 | Marc Bonnici     | Tullett Prebon     | 
 | Eric Li     (Deputy Co-Chairperson)| UBS AG     | 
 | Kelvin Ng   | UOB     |
