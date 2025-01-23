@@ -28,7 +28,7 @@ variant: markdown
 | Kenneth Lai     | OCBC     | 
 | Tan May Ling     | OCBC     | 
 | Daniel Koh     | SGX   | 
-| Anthony John Hall     | Standard Chartered Bank     | 
+| Tony Hall     | Standard Chartered Bank     | 
 | Marc Bonnici     | Tullett Prebon     | 
 | Eric Li     (Deputy Co-Chairperson)| UBS AG     | 
 | Kelvin Ng   | UOB     |
