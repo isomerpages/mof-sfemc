@@ -1,0 +1,25 @@
+collections:
+  media-releases:
+    output: true
+    order:
+      - News.md
+      - Posts/.keep
+      - Posts/04 Nov 2011 | SFEMC statement in relation to MF Global Singapore.md
+      - Posts/21 Oct 2010 | Recommendations in light of the amend in Chinese
+        Renminbi US Dollar fixing (CNY SAEC).md
+      - Posts/20 May 2010 | Recommendations in light of the market disruption on
+        THB settlement.md
+      - Posts/15 Sep 2008 | SFEMC statement on contingent third party
+        information clearing house.md
+      - Posts/01 Aug 2008 | SFEMC statement on Vietnamese Dong fixings.md
+      - Posts/18 Dec 2006 | SFEMC statement on Bank of Thailand reserve
+        requirement on short term capital inflow.md
+      - Posts/20 Sep 2006 | Recommendation on the settlement of Thai Baht (THB)
+        transactions.md
+      - Posts/Oct 2003 |  SFEMC open letter to participants in the Singapore
+        financial market.md
+      - Posts/29 Mar 2003 | SFEMC ABS Joint Statement on SARS.md
+      - Posts/26 Feb 2001 | Guidelines for closing out outstanding Indonesian
+        Rupiah.md
+      - Posts/03 Sep 1998 | Notes of meeting on settlement of Malaysian Ringgit
+        (MYR) deals.md

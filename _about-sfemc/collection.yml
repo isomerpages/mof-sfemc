@@ -1,0 +1,9 @@
+collections:
+  about-sfemc:
+    output: true
+    order:
+      - Overview.md
+      - Terms of Reference.md
+      - Competition Law Guidelines for SFEMC.md
+      - Committee Members.md
+      - Sub committees.md
